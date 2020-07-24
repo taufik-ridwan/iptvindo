@@ -645,9 +645,7 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-
-
-title="KIDS",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network HD
 http://203.153.218.28:9981/stream/channelid/251475608
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
@@ -774,9 +772,7 @@ hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?
 hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
-#EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-
-
-title="MUSIC",Music Concert
+#EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC",Music Concert
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?
 hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
@@ -919,9 +915,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="Movies",Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-language="English" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" 
-
-tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="Movies",B4U Movies
+#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-language="English" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="Movies",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Movies",Black Cinema
