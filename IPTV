@@ -836,7 +836,10 @@ https://mkctv.my.id/movie/hbo.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 2
 http://fdtvapps.xyz/channel/hbo.m3u8
-http://203.153.218.28:9981/stream/channelid/1299824667                                      
+http://203.153.218.28:9981/stream/channelid/1299824667
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO HD
+https://watchindia.net:8443/live/78232/32496/2081.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO Hits HD ID 1
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
