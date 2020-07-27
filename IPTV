@@ -841,6 +841,9 @@ http://203.153.218.28:9981/stream/channelid/1299824667
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO HD
 https://watchindia.net:8443/live/78232/32496/2081.m3u8
 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO FHD
+http://iptvpro.watch-vision.net:8789/fkldfSPKQms659F/FQifq68AS32p4B/44575?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO Hits HD ID 1
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
 https://mkctv.my.id/movie/hbohit.m3u8
