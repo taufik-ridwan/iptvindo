@@ -295,14 +295,14 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="RELIGI",TV 9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV RELIGI",SALAM TV 
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="RELIGI",SALAM TV 
 http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", TAWAF TV
 http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", SALING SAPA TV
-http://103.148.44.22:8876/play/a0fy
+
 
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MUHAMMADIYAH
 
@@ -342,7 +342,6 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-hM_kpUM7Bic/AAAAAAAAAAI/AAAAAAAAAAA/y86iTyWkh7E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPORTS",Sony Ten 1
-http://indtv.online/Ten_1.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/10168
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
@@ -587,10 +586,9 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channel.jpg" group-title="KNOWLEDGE",Discovery Channel
-https://
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
-http://indtv.online/Sony_BBC_Earth_HD.m3u8 
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="KNOWLEDGE",Crime Investigation
