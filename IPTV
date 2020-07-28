@@ -73,6 +73,7 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV 1
+http://iptv.biz.id:8888/live/suherman/123456/2.m3u8
 http://103.148.44.22:8876/play/a0g5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV 2
@@ -293,6 +294,9 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="RELIGI",TV 9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV RELIGI",SALAM TV 
+http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", TAWAF TV
 http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
@@ -632,6 +636,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNlEz-CDAjoimXJt1PL1SON2bpGw15NZXXgg-RLFJrkc8zUb7y" group-title="GAYA HIDUP",Lifestyle & Fashion
+http://103.47.132.165/PLTV/88888888/224/3221227115/1.m3u8
 https://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvnk-Ku-VLqZrrKSmaaqS-VM3856fP3BwiFb-Ex36raZuSOEFA" group-title="GAYA HIDUP",Infotainment
@@ -816,6 +821,7 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 2
+http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8 
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 
@@ -860,6 +866,7 @@ https://dl.dropbox.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8?dl=0
 https://mkctv.my.id/movie/hbofam.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family 2
+http://fdtvapps.xyz/channel/hbofam.m3u8
 http://203.153.218.28:9981/stream/channelid/1316004766
 http://proxyts.ec.cx:8082/hls1/hbofamily.m3u?wmsAuthSign=
 
@@ -900,6 +907,7 @@ http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
 https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
+http://fdtvapps.xyz/channel/red.m3u8
 https://mkctv.my.id/movie/red.m3u8
 https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 
