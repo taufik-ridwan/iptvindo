@@ -839,6 +839,7 @@ http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 http://185.236.229.2:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 1
+http://fdtvapps.xyz/channel/hbo.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
 https://mkctv.my.id/movie/hbo.m3u8
 
@@ -847,13 +848,10 @@ http://fdtvapps.xyz/channel/hbo.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO HD
-https://watchindia.net:8443/live/78232/32496/2081.ts
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
-
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO FHD
 http://bigforce.club:8880/9Be4HiO5g0/8860839166/165
-http://iptvpro.watch-vision.net:8789/fkldfSPKQms659F/FQifq68AS32p4B/44575?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO Hits HD ID 1
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
