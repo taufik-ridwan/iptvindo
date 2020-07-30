@@ -613,6 +613,7 @@ https://mkctv.my.id/tvje/ngp.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 1
 https://mkctv.my.id/tvje/ngw.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 2
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
@@ -842,6 +843,7 @@ http://185.236.229.2:8000/play/a04x/index.m3u8
 http://fdtvapps.xyz/channel/hbo.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
 https://mkctv.my.id/movie/hbo.m3u8
+http://fdtvapps.xyz/channel/hbo.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 2
 http://fdtvapps.xyz/channel/hbo.m3u8
