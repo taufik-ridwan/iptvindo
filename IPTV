@@ -820,6 +820,7 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 1
 http://203.153.218.28:9981/stream/channelid/1949182550
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 2
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8 
@@ -828,9 +829,9 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 1
 http://203.153.218.28:9981/stream/channelid/1744735983
-http://103.47.132.165/PLTV/88888888/224/3221227121/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 2
+http://103.47.132.165/PLTV/88888888/224/3221227121/3.m3u8 
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 1
