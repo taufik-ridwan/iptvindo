@@ -36,7 +36,7 @@ http://103.148.44.22:8876/play/a0h4
 https://mengkacaktv.my.id/vidio.com/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 1
-http://210.210.155.35:80/qwr9ew/s/s07/index1.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Indonesia/f518174e1e.m3u8
 http://103.148.44.22:8876/play/a0aw
 https://mkctv.my.id/tvje/antv.m3u8
@@ -154,7 +154,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 ########################################################### LOKAL ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="LOKAL",DAAI TV
-http://103.148.44.22:8876/play/a09y
+http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
@@ -905,6 +905,7 @@ http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="MOVIES",FX
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MOVIES",AXN
@@ -925,7 +926,7 @@ https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="MOVIES",TvN
-
+http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/TVN-Movies-HD.png" group-title="MOVIES",TvN movies
 http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
