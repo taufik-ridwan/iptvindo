@@ -656,6 +656,7 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSS4a7jcPDHneWRSajoRuDJ-LPqyXN2yfogAXbiiaQAhTbDSR&s" group-title="GAYA HIDUP",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GAYA HIDUP",NIFTY
 https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
@@ -841,6 +842,7 @@ http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 2
+http://103.47.132.165/PLTV/88888888/224/3221227165/1596276217-1-159627621.hls.ts
 http://185.236.229.2:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 1
@@ -907,6 +909,7 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MOVIES",AXN
+http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
 http://106.54.30.243/gz009/gz.php?id=axn 
 http://203.153.218.28:9981/stream/channelid/882386103
 https://mkctv.my.id/tvje/axn.m3u8
@@ -926,6 +929,7 @@ https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/TVN-Movies-HD.png" group-title="MOVIES",TvN movies
+http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
 http://103.148.44.22:5562/tvnmovie
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
@@ -939,6 +943,7 @@ http://45.126.83.51/uq2663/h/h37/index.m3u8
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="MOVIES",THRILL
+http://45.126.83.51/session/94e87a74-8d3d-11ea-9caf-922bb8f06b04/qwr9ew/s/s34/01.m3u8
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
