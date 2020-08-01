@@ -799,6 +799,7 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 ########################################################### MOVIES ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 1
+http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8 
 http://203.153.218.28:9981/stream/channelid/1910872088
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 2
@@ -809,6 +810,7 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 2
+http://103.47.132.165/PLTV/88888888/224/3221227119/1.m3u8
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
@@ -840,9 +842,9 @@ http://185.236.229.2:8000/play/a04x/index.m3u8
 http://fdtvapps.xyz/channel/hbo.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
 https://mkctv.my.id/movie/hbo.m3u8
-http://fdtvapps.xyz/channel/hbo.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 2
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://fdtvapps.xyz/channel/hbo.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
@@ -907,7 +909,6 @@ http://106.54.30.243/gz009/gz.php?id=axn
 http://203.153.218.28:9981/stream/channelid/882386103
 https://mkctv.my.id/tvje/axn.m3u8
 http://210.210.155.66/h/h141/02.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
 https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
