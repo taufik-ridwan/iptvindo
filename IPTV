@@ -300,17 +300,16 @@ http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="RELIGI", KHAZANAH TV
 
 
-#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV ISLAM",RODJA TV 
-http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",Rodja TV Cileungsi
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
 
 ########################################################### SPORTS ###################################################
 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
 https://cdn-laos.workpoint.news/sd-foxsports1_480/index.m3u8
+http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
