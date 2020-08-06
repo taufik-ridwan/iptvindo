@@ -261,10 +261,6 @@ http://live.noorlive.com:1935/wesal/wesal1/chunklist_w1039147557.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="RELIGI", ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="RELIGI", RODJA TV
-http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
-http://210.210.155.35/qwr9ew/s/s14/02.m3u8
-
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI", AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
@@ -279,6 +275,10 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="RELIGI", INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="RELIGI", RODJA TV
+http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
+http://210.210.155.35/qwr9ew/s/s14/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="RELIGI",TV 9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
