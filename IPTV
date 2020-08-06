@@ -303,6 +303,11 @@ http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="RELIGI", KHAZANAH TV
 http://210.210.155.35/qwr9ew/s/s14/02.m3u8
 
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="TV Islam",Rodja TV backup
+https://tv.rodja.live/live/smil:rodjatv.smil/chunklist_w955375744_b1564000.m3u8
 
 ########################################################### SPORTS ###################################################
 
