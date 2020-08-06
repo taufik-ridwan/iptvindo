@@ -300,7 +300,7 @@ http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="RELIGI", KHAZANAH TV
 
 
-#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="RELIGI",RODJA TV 
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV ISLAM",RODJA TV 
 http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
