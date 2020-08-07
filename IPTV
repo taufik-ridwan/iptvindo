@@ -283,19 +283,19 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/playlist.m3u8
+https://cdngb196.useetv.com/joss/18/tawaftv/chunklist_w1340582826_b684100_sleng_17136.m3u8?enc=AhKv2znAh7YF_9VmVi3GEQ&id=&exp=1596813690
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="TV Islam", SALING SAPA TV
 
 
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="TV Islam",TV MUHAMMADIYAH
-
+https://cdngb196.useetv.com/joss/18/muhammadiyahtv/chunklist_w1731161967_b684100_sleng_17203.m3u8?enc=FE05KhLVf5hnP8YUyC2VzQ&id=&exp=1596813850
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/mqtvtv.png" group-title="TV Islam", MQTV
-
+https://cdngb196.useetv.com/joss/18/mqtv/chunklist_w1698302979_b684100_sleng_17195.m3u8?enc=linXAbXi3oo_4m11IRIxUA&id=&exp=1596813779
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/muitv.png" group-title="TV Islam", MUI TV
-
+https://cdngb196.useetv.com/joss/18/muitv/chunklist_w661978685_b684100_sleng_17209.m3u8?enc=4KMxCkd63FVHM9hhTfvB1g&id=&exp=1596813910
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
