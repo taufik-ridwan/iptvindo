@@ -283,48 +283,53 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-https://cdngb196.useetv.com/joss/18/tawaftv/chunklist_w1340582826_b684100_sleng_17136.m3u8?enc=AhKv2znAh7YF_9VmVi3GEQ&id=&exp=1596813690
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="TV Islam", SALING SAPA TV
 
 
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="TV Islam",TV MUHAMMADIYAH
-https://cdngb196.useetv.com/joss/18/muhammadiyahtv/chunklist_w1731161967_b684100_sleng_17203.m3u8?enc=FE05KhLVf5hnP8YUyC2VzQ&id=&exp=1596813850
+
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/mqtvtv.png" group-title="TV Islam", MQTV
-https://cdngb196.useetv.com/joss/18/mqtv/chunklist_w1698302979_b684100_sleng_17195.m3u8?enc=linXAbXi3oo_4m11IRIxUA&id=&exp=1596813779
+
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/muitv.png" group-title="TV Islam", MUI TV
-https://cdngb196.useetv.com/joss/18/muitv/chunklist_w661978685_b684100_sleng_17209.m3u8?enc=4KMxCkd63FVHM9hhTfvB1g&id=&exp=1596813910
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
 
 #EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",Rodja TV Cileungsi
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 
 
 ########################################################### SPORTS ###################################################
 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
+http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports1_480/index.m3u8
-http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
-http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
+http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS 1 FULL HD
+http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 FULL HD                                                                                                                                                                 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 FULL HD
+http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRba8iGh0ZNjGuK6N45bEq3QNviWkbYYmajjW7pvYX77e6EKA-g&s" group-title="SPORTS",FOX SPORTS 3 FULL HD
+http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS RACING
@@ -335,7 +340,6 @@ http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://new.naturalbd.com/uploads/tv_image/sony-ten-2.jpg" group-title="SPORTS",Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
