@@ -886,6 +886,7 @@ https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 https://mkctv.my.id/movie/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO Signature HD 2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX HD 1
@@ -922,6 +923,7 @@ http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
 https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
 http://fdtvapps.xyz/channel/red.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 http://link.comstar.tv:7899/31247896/6391507/55546
