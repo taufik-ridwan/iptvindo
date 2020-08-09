@@ -358,15 +358,19 @@ http://cloudcdn.tk/OGuRpNm273/p2wYsh373/10168
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
+http://203.150.107.30:8081/tested2iptv/core104/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
@@ -477,7 +481,6 @@ http://stream99.astalavistababy.xyz/selcuksportsfutbol/bein222222/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://stream99.astalavistababy.xyz/priv/b33333/playlist.m3u8
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
@@ -947,6 +950,7 @@ http://45.126.83.51/uq2663/h/h37/index.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLBji8leP3czG_eEYxH4yQ-ac_ld5DSnwsl1xt7yxykSxmoFT&s" group-title="MOVIES",Warner TV
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
