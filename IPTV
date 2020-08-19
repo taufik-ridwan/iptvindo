@@ -602,6 +602,7 @@ https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
 http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
+http://103.146.185.235:8888/HM2019/Restream@2019/10
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1868154562
 
@@ -617,16 +618,24 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="KNOWLEDGE",OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channel.jpg" group-title="KNOWLEDGE",Discovery Channel
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="KNOWLEDGE",Discovery Channel
 http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://accion.com.ph/wp-content/uploads/2018/03/DISCOVERYASIA_LOGO.png",Discovery Asia
+http://103.146.185.235:8888/HM2019/Restream@2019/55
+
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery Turbo
+http://103.146.185.235:8888/HM2019/Restream@2019/986
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
+http://103.146.185.235:8888/HM2019/Restream@2019/1030
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="KNOWLEDGE",Crime Investigation
 http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
+http://103.146.185.235:8888/HM2019/Restream@2019/69
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0ODkzNzQ5NTAzMDU4/smithsonian-channel-logojpg.jpg" group-title="KNOWLEDGE",Smithsonian
 http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
@@ -641,6 +650,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People 1
+http://103.146.185.235:8888/HM2019/Restream@2019/61
 http://203.153.218.28:9981/stream/channelid/1114683377
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",NAT GEO People 2
@@ -658,6 +668,7 @@ http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
 http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
+http://103.146.185.235:8888/HM2019/Restream@2019/65
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
@@ -707,8 +718,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network HD
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng 
+http://103.146.185.235:8888/HM2019/Restream@2019/248
 http://203.153.218.28:9981/stream/channelid/251475608
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
