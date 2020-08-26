@@ -359,6 +359,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/soni-3.png" group-title="SPORTS",Sony Ten 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
