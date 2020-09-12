@@ -713,6 +713,7 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 ########################################################### KIDS #####################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",Duck TV
@@ -915,11 +916,11 @@ http://fdtvapps.xyz/channel/hbo.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/417
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/19658
 http://bigforce.club:8880/9Be4HiO5g0/8860839166/165
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO Hits HD ID 1
