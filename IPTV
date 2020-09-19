@@ -864,48 +864,48 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 ########################################################### MOVIES ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 1
-http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8 
 http://203.153.218.28:9981/stream/channelid/1910872088
+http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 2
 http://203.153.218.28:9981/stream/channelid/1910872088
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 1
-http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 2
-http://103.47.132.165/PLTV/88888888/224/3221227119/1.m3u8
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227119/1.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 1
-http://103.47.132.165/PLTV/88888888/224/3221227117/01.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227117/01.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 2
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8 
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 1
 http://203.153.218.28:9981/stream/channelid/1744735983
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 2
-http://103.47.132.165/PLTV/88888888/224/3221227121/3.m3u8 
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227121/3.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 1
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 2
-http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 http://185.236.229.2:8000/play/a04x/index.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 1
 http://fdtvapps.xyz/channel/hbo.m3u8
@@ -967,8 +967,8 @@ http://203.153.218.28:9981/stream/channelid/255605374
 http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Extreme
-http://103.47.132.164/PLTV/88888888/224/3221227319/1.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227319/1.m3u8
 http://iptv.biz.id:8888/live/suherman/123456/36.m3u8
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
@@ -978,12 +978,12 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="MOVIES",FX
-http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MOVIES",AXN
-http://103.47.132.164/PLTV/88888888/224/3221227159/1.m3u8
 http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227159/1.m3u8
 http://106.54.30.243/gz009/gz.php?id=axn
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/882386103
@@ -1009,8 +1009,8 @@ http://link.comstar.tv:7899/31247896/6391507/55546
 http://103.148.44.22:5562/tvnmovie
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
-http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIES",Hits Movies
@@ -1035,16 +1035,16 @@ http://210.210.155.66/h/h04/01.m3u8
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
-http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 http://203.150.107.30:8081/tested2iptv/154Stream_3HD/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES",KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP
-http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="Movies",Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
