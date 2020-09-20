@@ -31,14 +31,12 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 2
-http://103.47.132.164/PLTV/88888888/224/3221227227/03.m3u8
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 1
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 2
-http://103.47.132.164/PLTV/88888888/224/3221227215/1.m3u8
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 http://id1.indostreamingtv.com/live/antv/index.m3u8
 
@@ -47,7 +45,6 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TV ONE 2
-http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
 http://103.148.44.22:8876/play/a0aq
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
@@ -58,7 +55,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7 1
-https://etslive-2-vidio-com.akamaized.net/exp=1600582201~acl=/hls-p/ingest_734_*/*~hmac=94e34fd1ebfbe273c8990de44e7b6b524532c
+https://etslive-2-vidio-com.akamaized.net/exp=1600582201~acl=/hls-p/ingest_734_*/*~hmac=94e34fd1ebfbe273c8990de44e7b6b524532c35fb70407a46f11f9819cd2797f/hls-p/ingest_734_720p/index.m3u8
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7 2
@@ -86,7 +83,6 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV 1
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-http://103.47.132.165/PLTV/88888888/224/3221227101/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -283,7 +279,7 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV 
-http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
+http://wowza60.indostreamserver.com/salamtv/live/chunklist_w1037215535.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
 https://cdngb196.useetv.com/joss/18/tawaftv/chunklist_w988030541_b684100_sleng.m3u8?enc=bm6BtsG01oS28AYNYG2UxA&id=YTBiNWY0N2U2OTc0NWM2NDhhYmIzZDZiZTg3YzE0ODU=&exp=1600578733
