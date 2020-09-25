@@ -271,11 +271,9 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
-http://178.128.121.192/hlsmobile/web.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="TV Islam", NIAGA TV
-http://119.235.249.58:1935/niagatv/live/chunklist_w2006523068.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV 
+https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1540121858.m3u8
+https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1037215535.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
@@ -283,17 +281,20 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
 
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",R0DJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="TV Islam", NIAGA TV
+http://119.235.249.58:1935/niagatv/live/chunklist_w2006523068.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="TV Islam",TV 9 NUSANTARA
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+https://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV 
-https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1540121858.m3u8
-https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1037215535.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-https://cdngb196.useetv.com/joss/18/tawaftv/chunklist_w988030541_b684100_sleng.m3u8?enc=bm6BtsG01oS28AYNYG2UxA&id=YTBiNWY0N2U2OTc0NWM2NDhhYmIzZDZiZTg3YzE0ODU=&exp=1600578733
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="TV Islam", SALING SAPA TV
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/salingsapatv.png" group-title="TV Islam", SALING SAPA TV
 http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="TV Islam",TV MUHAMMADIYAH
@@ -307,10 +308,8 @@ https://cdngb196.useetv.com/joss/18/muitv/chunklist_w1545884280_b684100_sleng.m3
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
 
-#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",Rodja TV Cileungsi
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 
 
 ########################################################### SPORTS ###################################################
