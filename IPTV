@@ -253,6 +253,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam",AYAT LIVE TV
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam",AQSHA TV
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
@@ -333,12 +334,14 @@ https://cdn-laos.workpoint.news/sd-foxsports1_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://185.238.0.145:1313/c/alt/foxsports2-hd.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+http://185.238.0.145:1313/c/alt/foxsports3-hd.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
