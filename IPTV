@@ -339,6 +339,7 @@ http://185.238.0.145:1313/c/alt/foxsports2-hd.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -478,6 +479,7 @@ http://cloudcdn.tk/OGuRpNm273/p2wYsh373/23451
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="SPORTS",Astro Super Sport 4HD
+http://tv.tangyuanya.com:8080/hls/ke9797/125
 http://cloudcdn.tk/3lbwcmkkwvtf365/UIF9Xq9UZxh3861/33973
 https://cdn-laos.workpoint.news/my-asp4hd_720/index.m3u8
 
@@ -521,27 +523,35 @@ https://mkctv.my.id/tvje/champion.m3u8
 https://mkctv.my.id/tvje/champion2.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
+http://135.181.31.32/hls/bein1.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/145
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/146 
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/147
 https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/148
+http://135.181.31.32/hls/bein4.m3u8
 https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/149
 http://ip.sawiptv.com:2540/452116554501167/452116554501167/452
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
+http://tv.tangyuanya.com:8080/hls/ke9797/150
 http://ip.sawiptv.com:2540/452116554501167/452116554501167/450
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
