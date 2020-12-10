@@ -661,6 +661,7 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 http://103.146.185.235:8888/HM2019/Restream@2019/55
 
 #EXTINF:-1 group-title="KNOWLEDGE",Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 http://103.146.185.235:8888/HM2019/Restream@2019/986
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
