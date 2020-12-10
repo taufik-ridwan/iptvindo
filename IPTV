@@ -28,6 +28,7 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 1
+https://etslive-2-vidio-com.akamaized.net/exp=1607585063~acl=/hls-p/ingest_204_*/*~hmac=51570b0f38a34baa5666e27848ef9bd18f46658036d7e476551ca559f65fd2f9/hls-p/ingest_204_720p/index.m3u8
 https://chama.ml/channelgratisan-SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
