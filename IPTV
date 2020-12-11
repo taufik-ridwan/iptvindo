@@ -41,6 +41,7 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 2
+http://185.238.0.145:1313/c/g/antv.m3u8
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 http://id1.indostreamingtv.com/live/antv/index.m3u8
@@ -915,6 +916,7 @@ http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 1
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 
@@ -932,6 +934,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 1
+http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 http://194.54.183.122:8000/play/a01m
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 
