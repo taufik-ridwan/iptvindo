@@ -374,6 +374,7 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/10168
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
@@ -484,16 +485,19 @@ http://cloudcdn.tk/3lbwcmkkwvtf365/UIF9Xq9UZxh3861/33973
 https://cdn-laos.workpoint.news/my-asp4hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/3586
 http://160.119.77.50/iptv/uk-btsport1hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/1992
 http://160.119.77.50/iptv/uk-btsport2hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/1965
 http://160.119.77.50/iptv/uk-btsport3hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
