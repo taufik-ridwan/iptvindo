@@ -11,7 +11,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI 2
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96d7d0b008c6972404cfbeadc511a3391a
+http://103.28.53.75/~cdaymyid/coday_play.m3u
 https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV 1
@@ -21,7 +21,6 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV 2
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ed7d0b008c6972404cfbeadc511a3391a
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/GLOBAL.m3u8
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 
@@ -33,22 +32,24 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDONESIA",MNCTV 2
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417d7d0b008c6972404cfbeadc511a3391a
 https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 1
+http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=sctv&b=204&c=480p
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4d7d0b008c6972404cfbeadc511a3391a
 https://chama.ml/channelgratisan-SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 2
+http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=sctv&b=204&c=720p
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 1
+http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 2
+http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 http://185.238.0.145:1313/c/g/antv.m3u8
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
@@ -94,13 +95,16 @@ http://iptv.biz.id:8888/live/suherman/123456/2.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR 1
+http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=480p
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR 2
+http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=720p
 https://dl.dropbox.com/s/puigzo029f0qscp/indosiar.m3u8?dl=0
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV 1
+http://185.238.0.145:1313/c/ku/see/j.MiBiFUN?a=nettv
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
@@ -116,9 +120,11 @@ http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="INDONESIA",Rajawali TV 1
+http://210.210.155.35/session/2ae09192-fa18-11e9-a0e0-b82a72d63267/qwr9ew/s/s12/01.m3u8
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="INDONESIA",Rajawali TV 2
+http://210.210.155.35/session/2ae09192-fa18-11e9-a0e0-b82a72d63267/qwr9ew/s/s12/01.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 ########################################################### BERITA ###################################################
@@ -268,7 +274,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
@@ -407,37 +413,31 @@ https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
-https://ip2121.com/web/skynet1/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS",SkyNet Sport 2
-https://ip2121.com/web/skynet2/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="SPORTS",SkyNet Sport 3
-https://ip2121.com/web/skynet3/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="SPORTS",SkyNet Sport 4
-https://ip2121.com/web/skynet4/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="SPORTS",SkyNet Sport 5
-https://ip2121.com/web/skynet5/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="SPORTS",SkyNet Sport 6
-https://ip2121.com/web/skynet6/playlist.m3u8
-https://ip2121.com/web/skynethd/playlist.m3u8
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS",TrueSport HD 1
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17110
 https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
@@ -445,6 +445,7 @@ http://160.119.77.50/iptv/hd-tsport1.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORTS",TrueSport HD 2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17111
 https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
@@ -452,6 +453,7 @@ http://160.119.77.50/iptv/hd-tsport2.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17112
 https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
@@ -459,6 +461,7 @@ http://160.119.77.50/iptv/hd-tsport3.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
 http://160.119.77.50/iptv/hd-tsport4.stream/chunks.m3u8
