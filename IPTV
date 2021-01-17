@@ -274,7 +274,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
-
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381706
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
@@ -327,7 +327,7 @@ rtmp://118.97.183.222/discover/muhammadiyahtv
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381707
 
 
 ########################################################### SPORTS ###################################################
@@ -905,6 +905,7 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 ########################################################### MOVIES ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 1
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381943
 https://chama.ml/channelgratisan-FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
 
@@ -919,6 +920,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 2
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381946
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
@@ -930,6 +932,7 @@ http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 2
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381970
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
@@ -939,6 +942,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 http://203.153.218.28:9981/stream/channelid/1744735983
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 2
+https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381945
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
