@@ -320,6 +320,15 @@ http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Qz2JCO2R8HeJ9PHmPwDibmsTqCiYZW4Mezo8vgJ4QLDzIKQGNqHaaNM&s=10" group-title="TV Islam",TV MUHAMMADIYAH
 rtmp://118.97.183.222/discover/muhammadiyahtv
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV 
+http://wz.insantv.net/monitor/ch9.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/izzahtv.png", group-title="TV Islam", IZZAH TV 
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rasyaadtv.png", group-title="TV Islam", RASYAAD TV 
+https://rasyaadtv-edge.siar.us/rasyaadtv/abr/rasyaadtv/720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/mqtvtv.png" group-title="TV Islam", MQTV
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/muitv.png" group-title="TV Islam", MUI TV
