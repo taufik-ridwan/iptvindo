@@ -824,7 +824,6 @@ https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381943
 https://chama.ml/channelgratisan-FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
 https://chama.ml/channelgratisan-FOX
-http://203.153.218.28:9981/stream/channelid/1910872088
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
@@ -832,7 +831,6 @@ https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381946
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
@@ -842,9 +840,7 @@ http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381970
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
@@ -861,27 +857,28 @@ http://194.54.183.122:8000/play/a01m
 http://185.236.229.2:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO 
+http://ruangwaktu.xyz/tuinghbo/hbohd.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
 http://iptvtree.net:8080/13354/27c12697/65805
 http://fdtvapps.xyz/channel/hbo.m3u8
 https://mkctv.my.id/movie/hbo.m3u8
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-http://iptvtree.net:8080/13354/27c12697/148156
-http://fdtvapps.xyz/channel/hbo.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
+http://ruangwaktu.xyz/tuinghbo/hbohits.m3u8
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34804?play_token=U3gFZg2bPG&token=QhVcUhcJRggXUgZSBwQEBVZUBQVWV1xQVAABVVQAVlUPUVJSUlhcUFdGGURBEkJRAFtpWgVEXlBRXAVVSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNYARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 http://fdtvapps.xyz/channel/hbohits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY
+http://ruangwaktu.xyz/tuinghbo/hbofam.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 http://iptv.biz.id:8888/suherman/123456/18
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
@@ -894,23 +891,23 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://proxyts.ec.cx:8082/hls1/hbofamily.m3u?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO SIGNATURE
+http://ruangwaktu.xyz/tuinghbo/sighd.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 https://mkctv.my.id/movie/hbosig.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 http://iptvtree.net:8080/13354/27c12697/49289
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX 
+http://ruangwaktu.xyz/tuinghbo/max.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33258?play_token=TnHKJ46sMk&token=QhVcUhcJRggXUlFXAl4IDFUOAgtRXgdTUAYDAl5XVQIOAwdQUQUCVAZGGURBEkJRAFtpWgVEXlBWVgBZSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBXDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://fdtvapps.xyz/channel/cinemax.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374
 
@@ -939,13 +936,12 @@ http://203.153.218.28:9981/stream/channelid/882386103
 http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
+http://ruangwaktu.xyz/tuinghbo/red.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
 https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
 http://fdtvapps.xyz/channel/red.m3u8
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 http://link.comstar.tv:7899/31247896/6391507/55546
