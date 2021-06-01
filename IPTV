@@ -13,6 +13,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 
@@ -20,31 +21,40 @@ http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TV ONE 
+http://210.210.155.35/session/1e714c12-d9f1-11ea-b1f3-c81f66f89318/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:0 tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title="INDONESIA",Metro TV 
+https://livestreaming-swiftserve-etslive.vidio.com//vp9/777_stream.mpd
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 http://iptv.biz.id:8888/live/suherman/123456/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=480p
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
 http://185.238.0.145:1313/c/ku/see/j.MiBiFUN?a=nettv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="INDONESIA",Rajawali TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 http://210.210.155.35/session/2ae09192-fa18-11e9-a0e0-b82a72d63267/qwr9ew/s/s12/01.m3u8
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
