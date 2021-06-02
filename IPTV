@@ -205,7 +205,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381706
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
@@ -590,8 +590,8 @@ https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 ########################################################### KNOWLEDGE ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
-http://103.146.185.235:8888/HM2019/Restream@2019/10
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+http://103.146.185.235:8888/HM2019/Restream@2019/10
 http://203.153.218.28:9981/stream/channelid/1868154562
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 
@@ -646,6 +646,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://mkctv.my.id/tvje/ngp.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
 http://193.126.18.184:4022/udp/239.100.40.13:1234
 https://mkctv.my.id/tvje/ngw.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
