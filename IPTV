@@ -256,7 +256,7 @@ rtmp://118.97.183.222/discover/muhammadiyahtv
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV 
 
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/izzahtv.png", group-title="TV Islam", IZZAH TV 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/izzah-tv-id.png", group-title="TV Islam", IZZAH TV 
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rasyaadtv.png", group-title="TV Islam", RASYAAD TV 
