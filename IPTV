@@ -201,14 +201,14 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="TV Islam",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+http://stream1.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
-http://edge.siar.us/albahjahtv/live/playlist.m3u8
+https://albahjahtv-edge.siar.us/albahjahtv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
@@ -226,14 +226,13 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV 
-https://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w1540121858.m3u8
 https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1037215535.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b736000.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam",R0DJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
@@ -255,22 +254,23 @@ http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089
 rtmp://118.97.183.222/discover/muhammadiyahtv
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV 
-http://wz.insantv.net/monitor/ch9.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/izzahtv.png", group-title="TV Islam", IZZAH TV 
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rasyaadtv.png", group-title="TV Islam", RASYAAD TV 
-https://rasyaadtv-edge.siar.us/rasyaadtv/abr/rasyaadtv/720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/mqtvtv.png" group-title="TV Islam", MQTV
+
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/muitv.png" group-title="TV Islam", MUI TV
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381707
+
 
 
 ########################################################### SPORTS ###################################################
@@ -556,13 +556,13 @@ http://tv.tangyuanya.com:8080/hls/ke9797/149
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
-http://ip.sawiptv.com:2540/452116554501167/452116554501167/463
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
-http://ip.sawiptv.com:2540/452116554501167/452116554501167/465
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Global
-http://ip.sawiptv.com:2540/452116554501167/452116554501167/464
+
 
 
 ########################################################### KNOWLEDGE ###################################################
@@ -675,9 +675,8 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 
 ########################################################### KIDS #####################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon
-https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon TV
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
