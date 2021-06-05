@@ -149,7 +149,7 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNUEUee6-Yk_F-ZJa6sVdLjjCMW3gTM4Y7ZCf6lmMUGxbhJnkuNg&s" group-title="LOKAL",Padang TV
-https://122.248.43.138:1935/ch16/myStream/live.m3u
+https://122.248.43.138:1935/ch16/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
 http://210.210.155.69/s/s82/S4/mnf.m3u8
@@ -172,18 +172,43 @@ http://103.148.44.22:8876/play/a0
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/assets/companies/images/logo/jambi-televisi-pt_fb.png" group-title="LOKAL",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/PalTV_Palembang-250px.png" group-title="LOKAL",Pal TV
-http://122.248.43.138:1935/ch7/myStream/live.m3u
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-rbtv-logo-250px.png" group-title="LOKAL",RBTV
-http://122.248.43.138:1935/ch12/myStream/live.m3u
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-RCTV-logo-250px.png" group-title="LOKAL",RCTV
-http://122.248.43.138:1935/ch9/myStream/live.m3u
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
-########################################################### TV Islam ###################################################
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeInfo.png" group-title="LOKAL",Usee Info
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png" group-title="LOKAL",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://old.telkombdg.com/assets/image/useetv/useephoto.png" group-title="LOKAL",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh61tki1p6jqnPS_cdcEGtV1LkcVvVNdJZyL5hfTw=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL",Dunia Game TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztA43rdUI5A/sddefault_live.jpg" group-title="LOKAL",Digione Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="LOKAL",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_167.jpg" group-title="LOKAL",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+
+########################################################### TV ISLAM ###################################################
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam",ALQUR'AN TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
@@ -827,6 +852,55 @@ hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*
 #EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC",Music Concert
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?
 hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+
+########################################################### RADIO VID ################################################
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO VID",Ardan Radio
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7184.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO VID",Bahana FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7091.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LitEXxnoBCWSW30AOid09ISm3lg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO VID",Brava Radio
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7054.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/d1KbG3f4kAkm9rZLYySgSITAow0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO VID",Cosmopolitan FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7056.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO VID",Dahlia FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7242.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO VID",Delta FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7092.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9YyEdrmwSbk99DX70-U1A1dEJWw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO VID",Elgangga
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7169.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dLo75Dmfm5-P51eUWBxOiz7PNHs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO VID",Elmitra
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7170.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO VID",Elshinta FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7166.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Yt8GqA5gxaFe-Q504oVwnIfccTQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO VID",Female FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7130.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO VID",Gajahmada
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7284.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GB6NrbADuqqB-9eAQCNcy6IVd-s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO VID",Geronimo
+http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7216.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO VID",Hardrock FM
+http://ruangwaktu.xyz/kampret-loc/radio/ruangt
+
 
 ########################################################### MOVIES ###################################################
 
