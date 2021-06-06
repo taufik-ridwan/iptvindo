@@ -226,7 +226,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="TV Islam",NABAWI TV
-http://stream1.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -236,7 +236,7 @@ https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://albahjahtv-edge.siar.us/albahjahtv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
-http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CWb5ok09I_E/W9Zz5occECI/AAAAAAAAgAA/HxEMl61IzsUNMaaI-GQEQuAsdE_B_PuaQCLcBGAs/s320/surau%2Btv.png" group-title="TV Islam",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
@@ -245,16 +245,16 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w1039147557.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="TV Islam", ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_123.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV 
-https://wowza60.indostreamserver.com/salamtv/live/chunklist_w1037215535.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
-http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", INSAN TV
 
@@ -267,10 +267,10 @@ http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 http://119.235.249.58:1935/niagatv/live/chunklist_w2006523068.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
-http://178.128.121.192/hlsmobile/web.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="TV Islam",TV 9 NUSANTARA
-https://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+https://wowza60.indostreamserver.com:1935/tv9/live/chunklist_123.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/saling-sapa-tv-id.png" group-title="TV Islam", SALING SAPA TV
 http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089.m3u8
