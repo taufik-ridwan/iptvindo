@@ -326,25 +326,24 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-hM_kpUM7Bic/AAAAAAAAAAI/AAAAAAAAAAA/y86iTyWkh7E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPORTS",Sony Ten 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/157
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://new.naturalbd.com/uploads/tv_image/sony-ten-2.jpg" group-title="SPORTS",Sony Ten 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/soni-3.png" group-title="SPORTS",Sony Ten 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/10168
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/10168
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
@@ -445,38 +444,28 @@ http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="SPORTS",Astro Super Sport 1HD
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/119
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/23453
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="SPORTS",Astro Super Sport 2HD
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/23452
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="SPORTS",Astro Super Sport 3HD
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/121
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/23451
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="SPORTS",Astro Super Sport 4HD
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp4hd_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/125
-http://cloudcdn.tk/3lbwcmkkwvtf365/UIF9Xq9UZxh3861/33973
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/3586
 http://160.119.77.50/iptv/uk-btsport1hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/1992
 http://160.119.77.50/iptv/uk-btsport2hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 
@@ -484,7 +473,6 @@ http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/1965
 http://160.119.77.50/iptv/uk-btsport3hd.stream/chunks.m3u8
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 
@@ -853,95 +841,37 @@ hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?
 hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
-########################################################### RADIO VID ################################################
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO VID",Ardan Radio
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7184.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO VID",Bahana FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7091.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LitEXxnoBCWSW30AOid09ISm3lg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO VID",Brava Radio
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7054.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/d1KbG3f4kAkm9rZLYySgSITAow0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO VID",Cosmopolitan FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7056.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO VID",Dahlia FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7242.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO VID",Delta FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7092.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9YyEdrmwSbk99DX70-U1A1dEJWw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO VID",Elgangga
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7169.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dLo75Dmfm5-P51eUWBxOiz7PNHs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO VID",Elmitra
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7170.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO VID",Elshinta FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7166.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Yt8GqA5gxaFe-Q504oVwnIfccTQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO VID",Female FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7130.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO VID",Gajahmada
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7284.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GB6NrbADuqqB-9eAQCNcy6IVd-s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO VID",Geronimo
-http://ruangwaktu.xyz/kampret-loc/radio/ruangtv-7216.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO VID",Hardrock FM
-http://ruangwaktu.xyz/kampret-loc/radio/ruangt
-
 
 ########################################################### MOVIES ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8 
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381943
-https://chama.ml/channelgratisan-FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
-https://chama.ml/channelgratisan-FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381946
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Family Movies 
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381970
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 http://203.153.218.28:9981/stream/channelid/1744735983
-https://m3u-editor.com/serve/7e599be0-55ac-11eb-9f25-ef912bb721c2/185381945
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
-http://194.54.183.122:8000/play/a01m
-http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
-http://194.54.183.122:8000/play/a01m
-http://185.236.229.2:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="MOVIES",HBO 
 http://ruangwaktu.xyz/tuinghbo/hbohd.m3u8
