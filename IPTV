@@ -28,6 +28,7 @@ https://nonton.site:8443/provision/pp/29
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:0 tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title="INDONESIA",Metro TV 
+https://livestreaming-google-etslive.vidio.com/live/777/master.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7 
@@ -51,11 +52,13 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
 http://185.238.0.145:1313/c/ku/see/j.MiBiFUN?a=nettv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI 
+https://livestreaming-google-etslive.vidio.com/live/6441/master.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="INDONESIA",Rajawali TV
+https://livestreaming-google-etslive.vidio.com/live/1561/master.m3u8
 http://210.210.155.35/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
@@ -64,6 +67,7 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 ########################################################### BERITA ###################################################
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/Logo-Inews.png" group-title="BERITA",INEWS
+https://livestreaming-google-etslive.vidio.com/live/5409/master.m3u8
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 
