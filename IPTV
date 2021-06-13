@@ -229,14 +229,14 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="TV Islam",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
-https://albahjahtv-edge.siar.us/albahjahtv/live/chunklist.m3u8
+https://e1.siar.us/albahjahtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="TV Islam",TAHFIZH TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
@@ -248,7 +248,7 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w1039147557.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="TV Islam", ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_123.m3u8
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
@@ -268,6 +268,18 @@ http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="TV Islam", NIAGA TV
 http://119.235.249.58:1935/niagatv/live/chunklist_w2006523068.m3u8
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",Iqraa TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/DwssNPgH/MGI-TV.png",MGI TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/XJLv0WWm/MUSLIM-TV.png",MUSLIM TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
 
@@ -298,7 +310,7 @@ https://streaming.sigraduta.co.id/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
-
+http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
 
 
 ########################################################### SPORTS ###################################################
