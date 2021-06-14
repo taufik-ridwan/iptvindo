@@ -248,7 +248,7 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w1039147557.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="TV Islam", ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
@@ -312,6 +312,8 @@ https://streaming.sigraduta.co.id/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_GFad-ad5R3LhDErTUFqOvKiv0GfgMIs7Z754-2gypfXjVZCwc-Ao800Humh-d37cew=s200-rw" group-title="TV Islam", TAWAF TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
 
+#EXTINF:-1 group-title="TV Islam" tvg-logo="http://kamiselaluada.com/img/mta.png",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
 ########################################################### SPORTS ###################################################
 
