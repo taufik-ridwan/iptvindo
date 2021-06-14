@@ -70,12 +70,13 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
 ########################################################### BERITA ###################################################
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/Logo-Inews.png" group-title="BERITA",INEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
 https://livestreaming-google-etslive.vidio.com/live/5409/master.m3u8
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="BERITA",Berita Satu 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="BERITA",Berita Satu 
+http://nonton.wap.sh/id/015.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
