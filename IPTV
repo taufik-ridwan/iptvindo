@@ -127,7 +127,8 @@ http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sbo.co.id/wp-content/uploads/2019/12/175x90.png" group-title="LOKAL",SBO
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rNkGFjI.png" group-title="LOKAL",TV Ku
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="LOKAL",TV Ku
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="LOKAL",Jogja TV
@@ -136,7 +137,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.arematv.id/images/icons/logo.png" group-title="LOKAL",Arema TV
 
 
-http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
@@ -159,7 +160,7 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="LOKAL",Padang TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="LOKAL",Padang TV
 https://122.248.43.138:1935/ch16/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
@@ -197,7 +198,7 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/hiindo.png",Hi Indo 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/tic.png",The Indonesia Channel 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
