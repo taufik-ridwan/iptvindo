@@ -301,7 +301,7 @@ https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/XJLv0WWm/MUSLIM-TV.png",MUSLIM TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
 
@@ -314,6 +314,9 @@ http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Qz2JCO2R8HeJ9PHmPwDibmsTqCiYZW4Mezo8vgJ4QLDzIKQGNqHaaNM&s=10" group-title="TV Islam",TV MUHAMMADIYAH
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/wMMm3447/NU-CHANNEL.png",NU Channel 
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV 
 
