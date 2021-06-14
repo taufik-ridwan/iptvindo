@@ -119,23 +119,23 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTyQcN9_2ncI1DrFcOXdRRyVkJpkYpYoapFLWuExdTs35SPrxO" group-title="LOKAL",My TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4e/JEK_TV_%282018%29.png/300px-JEK_TV_%282018%29.png" group-title="LOKAL",Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sbo.co.id/wp-content/uploads/2019/12/175x90.png" group-title="LOKAL",SBO
-https://rvs.zet.co.id:4432/sbotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/484604765662236672/Rk67sGru.png" group-title="LOKAL",TV Ku
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rNkGFjI.png" group-title="LOKAL",TV Ku
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="LOKAL",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.arematv.id/images/icons/logo.png" group-title="LOKAL",Arema TV
+
+
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
@@ -159,13 +159,14 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNUEUee6-Yk_F-ZJa6sVdLjjCMW3gTM4Y7ZCf6lmMUGxbhJnkuNg&s" group-title="LOKAL",Padang TV
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="LOKAL",Padang TV
 https://122.248.43.138:1935/ch16/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
 http://210.210.155.69/s/s82/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XWRP1EECW9lR7AEtjzsHnDlbHWNWRzbIVzg=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOKAL",Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
 https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?
 hdnts=st=1582796203~exp=9007200837537194~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=ba5ad8fe58195184e20bc0097c41944ac8c60bf812cbb2c5eaebbe9177f0956c&hdnts=st=1582796204~exp=1582796324~acl=/*~id=444764fc-ab71-402c-9c2f-94cf78fb764b~data=36.77.80.127~hmac=736ffc29671da79d6fb7c2e1b91ddb554417a4d19e825fa60859c96d46825004
 
