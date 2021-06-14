@@ -14,10 +14,12 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 
+http://nonton.wap.sh/id/009.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 
+#EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV
+http://nonton.wap.sh/id/001.m3u8
 http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 https://nonton.site:8443/provision/pp/31
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
@@ -29,6 +31,7 @@ http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="INDONESIA",Metro TV 
 https://livestreaming-google-etslive.vidio.com/live/777/master.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7 
@@ -41,9 +44,10 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV 
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
-http://iptv.biz.id:8888/live/suherman/123456/2.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
+http://nonton.wap.sh/id/002.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=480p
 
@@ -72,6 +76,7 @@ https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="BERITA",Berita Satu 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="BERITA",CNN Indonesia
@@ -81,6 +86,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="BERITA",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="BERITA",Jakarta Globe News
@@ -104,6 +110,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 
@@ -111,6 +118,7 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTyQcN9_2ncI1DrFcOXdRRyVkJpkYpYoapFLWuExdTs35SPrxO" group-title="LOKAL",My TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
@@ -165,6 +173,7 @@ hdnts=st=1582796203~exp=9007200837537194~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9QjzD-DhukFaFxA9lMK_7IWMBJegcBpovzPfuGf6BqHCKqzX9" group-title="LOKAL",Jak TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6dd7d0b008c6972404cfbeadc511a3391a
 
 
@@ -186,13 +195,23 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-RCTV-logo-250px.png" group-title="LOKAL",RCTV
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/hiindo.png",Hi Indo 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/tic.png",The Indonesia Channel 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png",TV Edukasi 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/seatoday.png",SEA TODAY 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeInfo.png" group-title="LOKAL",Usee Info
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png" group-title="LOKAL",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://old.telkombdg.com/assets/image/useetv/useephoto.png" group-title="LOKAL",Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
