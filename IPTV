@@ -297,7 +297,7 @@ http://vids.rodja.tv:1935/live/rodja/media_w1125463925_2059.m3u8
 http://119.235.249.58:1935/niagatv/live/chunklist_w2006523068.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="TV Islam",TV 9 NUSANTARA
-https://wowza60.indostreamserver.com:1935/tv9/live/chunklist_123.m3u8
+http://wowza60.indostreamserver.com/tv9/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Qz2JCO2R8HeJ9PHmPwDibmsTqCiYZW4Mezo8vgJ4QLDzIKQGNqHaaNM&s=10" group-title="TV Islam",TV MUHAMMADIYAH
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
