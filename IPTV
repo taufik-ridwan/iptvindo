@@ -919,7 +919,8 @@ http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="MOVIES",HBO 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="MOVIES",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://ruangwaktu.xyz/tuinghbo/hbohd.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
@@ -931,6 +932,7 @@ https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://ruangwaktu.xyz/tuinghbo/hbohits.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
@@ -942,6 +944,7 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 http://ruangwaktu.xyz/tuinghbo/hbofam.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 http://iptv.biz.id:8888/suherman/123456/18
@@ -954,6 +957,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://proxyts.ec.cx:8082/hls1/hbofamily.m3u?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 http://ruangwaktu.xyz/tuinghbo/sighd.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
@@ -965,6 +969,7 @@ https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX BY HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 http://ruangwaktu.xyz/tuinghbo/max.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
@@ -974,6 +979,7 @@ http://fdtvapps.xyz/channel/cinemax.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",RED BY HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 http://ruangwaktu.xyz/tuinghbo/red.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
@@ -1016,9 +1022,11 @@ http://210.210.155.66/h/h141/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="MOVIES",TvN
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134162
 http://210.210.155.35/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="MOVIES",TvN movies
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134163
 http://210.210.155.35/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02/.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
@@ -1049,7 +1057,7 @@ http://210.210.155.66/h/h04/01.m3u8
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
-http://203.150.107.30:8081/tested2iptv/154Stream_3HD/playlist.m3u8
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134138
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES",KIX
@@ -1085,6 +1093,7 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QYWGJBC.png" group-title="MOVIES",My Cinema
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",My Cinema Channel
