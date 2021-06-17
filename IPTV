@@ -6,11 +6,11 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI 
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV 
-http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDONESIA",MNCTV 
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV 
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV 
 http://nonton.wap.sh/id/009.m3u8
@@ -121,7 +121,6 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4e/JEK_TV_%282018%29.png/300px-JEK_TV_%282018%29.png" group-title="LOKAL",Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="LOKAL",TV Ku
 http://103.30.1.14:8080/hls/live.m3u8
@@ -330,7 +329,6 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 http://185.238.0.145:1313/c/alt/foxsports2-hd.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
