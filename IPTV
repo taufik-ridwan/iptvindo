@@ -312,7 +312,8 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", INSAN TV
 #EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/XJLv0WWm/MUSLIM-TV.png",MUSLIM TV
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", PULDAPII TV
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hijrahtv.png", group-title="TV Islam", HIJRAH TV
+#EXTINF:-1 tvg-logo="http://upload.livetvgo.my.id/1596791185_gazwah.jpg", group-title="TV Islam", GAZWAH TV TV
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rasyaadtv.png", group-title="TV Islam", RASYAAD TV 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/muitv.png" group-title="TV Islam", MUI TV
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg" group-title="TV Islam", KHAZANAH TV
@@ -519,6 +520,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png", Champion 2
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
+
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
+
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -529,73 +538,63 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/145
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
 http://freeiptvgen.com:25461/704892/freeiptvgen/3567
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/146 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
 http://freeiptvgen.com:25461/704892/freeiptvgen/3568
 https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/147
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
 http://freeiptvgen.com:25461/704892/freeiptvgen/3569
 https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
-http://tv.tangyuanya.com:8080/hls/ke9797/148
 http://135.181.31.32/hls/bein4.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
 http://freeiptvgen.com:25461/704892/freeiptvgen/3570
-http://ip.sawiptv.com:2540/452116554501167/452116554501167/452
-http://tv.tangyuanya.com:8080/hls/ke9797/149
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 13 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 14 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 15 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 16 HD
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
+http://adnaraoun.xyz/live/05500021547/index.m3u8
+http://2.amarteyyy.xyz/live/05500021547/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
+http://adnaraoun.xyz/live/44619987771/index.m3u8
+http://2.amarteyyy.xyz/live/44619987771/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInMax 3 HD
+http://1.alhawalouh.xyz/live/5528822225/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInMax 4 HD
+http://1.alhawalouh.xyz/live/0303300111/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInMax 5 HD
+http://adnaraoun.xyz/live/1611336999/index.m3u8
+http://10.ardounar.xyz/live/1611336999/index.m3u8
+http://6.amroutras.xyz/live/1611336999/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInMax 6 HD
+http://adnaraoun.xyz/live/1666111178/index.m3u8
+http://7.anbdaouras.xyz/live/1666111178/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
-
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Global
-
-
 
 ########################################################### KNOWLEDGE ###################################################
 
@@ -634,10 +633,8 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 http://103.146.185.235:8888/HM2019/Restream@2019/1030
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="KNOWLEDGE",Crime Investigation
-
 
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="KNOWLEDGE",Smithsonian
