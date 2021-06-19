@@ -178,7 +178,7 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/TV-BMW-Channel-Militer-250x132.png" group-title="LOKAL",BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/assets/companies/images/logo/jambi-televisi-pt_fb.png" group-title="LOKAL",Jambi TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtscRmF/jambi.png" group-title="LOKAL",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/PalTV_Palembang-250px.png" group-title="LOKAL",Pal TV
