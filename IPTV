@@ -527,13 +527,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png", Champion 2
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
+http://adnaraoun.xyz/live/6161655/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
 http://1.alhawalouh.xyz/live/616194987/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
 http://1.alhawalouh.xyz/live/6151278887/index.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -584,37 +585,26 @@ http://1.alhawalouh.xyz/live/791001144/index.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
-http://adnaraoun.xyz/live/6262622222/index.m3u8
-http://11.ardounar.xyz/live/6262622222/index.m3u8
-http://adnaraoun.xyz/live/05500021547/index.m3u8
-http://2.amarteyyy.xyz/live/05500021547/index.m3u8
+http://adnaraoun.xyz/live/6262622200/index.m3u8
+http://3.amarteyyy.xyz/live/6262622200/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
-http://adnaraoun.xyz/live/331210014/index.m3u8
-http://11.ardounar.xyz/live/331210014/index.m3u8
-http://adnaraoun.xyz/live/44619987771/index.m3u8
-http://2.amarteyyy.xyz/live/44619987771/index.m3u8
+http://5.amroutras.xyz/live/331210000/index.m3u8
+http://adnaraoun.xyz/live/331210000/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInMax 3 HD
-http://1.alhawalouh.xyz/live/693996387/index.m3u8
-http://1.alhawalouh.xyz/live/5528822225/index.m3u8
+http://1.alhawalouh.xyz/live/693996300/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInMax 4 HD
-http://1.alhawalouh.xyz/live/1203030001/index.m3u8
-http://1.alhawalouh.xyz/live/0303300111/index.m3u8
+http://1.alhawalouh.xyz/live/1203030000/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInMax 5 HD
-http://adnaraoun.xyz/live/0679877787/index.m3u8
-http://2.amarteyyy.xyz/live/0679877787/index.m3u8
-http://adnaraoun.xyz/live/1611336999/index.m3u8
-http://10.ardounar.xyz/live/1611336999/index.m3u8
-http://6.amroutras.xyz/live/1611336999/index.m3u8
+http://3.amarteyyy.xyz/live/0679877700/index.m3u8
+http://adnaraoun.xyz/live/0679877700/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInMax 6 HD
-http://adnaraoun.xyz/live/790006668/index.m3u8
-http://7.anbdaouras.xyz/live/790006668/index.m3u8
-http://adnaraoun.xyz/live/1666111178/index.m3u8
-http://7.anbdaouras.xyz/live/1666111178/index.m3u8
+http://adnaraoun.xyz/live/790006600/index.m3u8
+http://8.anbdaouras.xyz/live/790006600/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
