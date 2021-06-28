@@ -331,7 +331,6 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/152
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports1_480/index.m3u8
@@ -341,13 +340,11 @@ https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/153
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/154
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 http://185.238.0.145:1313/c/alt/foxsports3-hd.m3u8
@@ -474,7 +471,6 @@ http://160.119.77.50/iptv/hd-tsport4.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 1HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 
@@ -483,12 +479,10 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 3HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/150 
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp4hd_720/index.m3u8
 
@@ -524,7 +518,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/241
+
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 2
 
@@ -545,7 +539,6 @@ http://1.alhawalouh.xyz/live/6151278887/index.m3u8
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/156
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://1.alhawalouh.xyz/live/918454578/index.m3u8
 http://135.181.31.32/hls/bein1.m3u8
@@ -594,24 +587,22 @@ http://1.alhawalouh.xyz/live/791001144/index.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
-http://adnaraoun.xyz/live/6262622200/index.m3u8
-http://3.amarteyyy.xyz/live/6262622200/index.m3u8
+http://1.adnaraoun.xyz/live/6262622200/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
-http://adnaraoun.xyz/live/331210000/index.m3u8
+http://1.adnaraoun.xyz/live/331210000/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInMax 3 HD
-http://1.alhawalouh.xyz/live/693996300/index.m3u8
+http://55.abdakaroukhai.xyz/live/693996300/index.m3u8?t=w7qCwqpogQHvNdUT_tdM3A&e=1624792635
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInMax 4 HD
-http://1.alhawalouh.xyz/live/1203030000/index.m3u8
+http://55.abdakaroukhai.xyz/live/1203030000/index.m3u8?t=rQ45y4mqoT5mn6wDGI9m8g&e=1624792794
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInMax 5 HD
-http://adnaraoun.xyz/live/0679877700/index.m3u8
+http://1.adnaraoun.xyz/live/0679877700/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInMax 6 HD
-http://adnaraoun.xyz/live/790006600/index.m3u8
-http://8.anbdaouras.xyz/live/790006600/index.m3u8
+http://1.adnaraoun.xyz/live/790006600/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
@@ -907,7 +898,6 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="MOVIES",HBO
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/54
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
@@ -917,7 +907,6 @@ https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/55
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
@@ -928,7 +917,6 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/56
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
@@ -938,7 +926,6 @@ http://fdtvapps.xyz/channel/hbofam.m3u8
 http://203.153.218.28:9981/stream/channelid/1316004766
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO SIGNATURE
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/57
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
