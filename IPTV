@@ -471,18 +471,22 @@ http://160.119.77.50/iptv/hd-tsport4.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 1HD
+http://iptv.tvmalaysia.cc/932633/932633/6708
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 2HD
+http://iptv.tvmalaysia.cc/932633/932633/6710
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 3HD
+http://iptv.tvmalaysia.cc/932633/932633/6711
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
+http://iptv.tvmalaysia.cc/932633/932633/6712
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp4hd_720/index.m3u8
 
@@ -654,16 +658,19 @@ https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134185
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="KNOWLEDGE",National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://203.153.218.28:9981/stream/channelid/681683355
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134199
 http://203.153.218.28:9981/stream/channelid/1114683377
 
-#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134189
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
 
@@ -983,7 +990,7 @@ http://210.210.155.66/h/h141/02.m3u8
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 http://210.210.155.35/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="MOVIES",TvN movies
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="MOVIES",TvN movies
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134163
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 http://210.210.155.35/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02/.m3u8
