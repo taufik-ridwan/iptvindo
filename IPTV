@@ -353,18 +353,18 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS RACING
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-hM_kpUM7Bic/AAAAAAAAAAI/AAAAAAAAAAA/y86iTyWkh7E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPORTS",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://new.naturalbd.com/uploads/tv_image/sony-ten-2.jpg" group-title="SPORTS",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://globalbanglatv.com/wp-content/uploads/2019/11/soni-3.png" group-title="SPORTS",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
@@ -435,7 +435,7 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS",TrueSport HD 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
@@ -444,7 +444,7 @@ https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
 http://160.119.77.50/iptv/hd-tsport1.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORTS",TrueSport HD 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
@@ -453,7 +453,7 @@ https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport2.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
@@ -462,7 +462,7 @@ https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
 http://160.119.77.50/iptv/hd-tsport3.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
@@ -911,7 +911,7 @@ http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
