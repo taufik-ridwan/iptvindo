@@ -1046,6 +1046,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="MOVIES",Retro TV
