@@ -115,7 +115,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="LOKAL",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="MOVIES",VISION PRIME 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="LOKAL",VISION PRIME 
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
