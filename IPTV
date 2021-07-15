@@ -115,6 +115,9 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="LOKAL",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="MOVIES",VISION PRIME 
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
@@ -251,7 +254,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="TV Islam",WESAL TV
-
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582
 
 #EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",Iqraa TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
