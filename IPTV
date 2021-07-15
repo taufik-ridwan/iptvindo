@@ -219,10 +219,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png" group-title="LOKAL",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-logo=" 
-https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL",Usee Photo
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL",Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh61tki1p6jqnPS_cdcEGtV1LkcVvVNdJZyL5hfTw=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL",Dunia Game TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
@@ -891,7 +889,7 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1910872088
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="MOVIES",Fox Premium Movies 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
