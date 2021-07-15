@@ -256,7 +256,7 @@ https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="TV Islam",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582
 
-#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",Iqraa TV
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",IQRA TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="TV Islam",NABAWI TV
