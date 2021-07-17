@@ -6,18 +6,25 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8 
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/rcti.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDONESIA",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8 
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/mnc.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8 
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/gtv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+http://gpc.my.id/vidio/sctv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387539 
 http://nonton.wap.sh/id/009.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -32,29 +39,32 @@ https://nonton.site:8443/provision/pp/31
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+http://gpc.my.id/vidio/trans7.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?checkedby
 
-#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV 
+#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+http://gpc.my.id/vidio/indosiar.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387542
 http://nonton.wap.sh/id/002.m3u8
 http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=480p
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8 
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
 http://185.238.0.145:1313/c/ku/see/j.MiBiFUN?a=nettv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="INDONESIA",Rajawali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 http://210.210.155.35/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TV ONE
@@ -62,6 +72,7 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387557 
 http://210.210.155.35/session/1e714c12-d9f1-11ea-b1f3-c81f66f89318/qwr9ew/s/s105/01.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
 https://nonton.site:8443/provision/pp/29
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
@@ -72,11 +83,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8 
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387567 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387567
+http://gpc.my.id/vidio/tvri.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -85,6 +97,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/inews.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
