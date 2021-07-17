@@ -489,10 +489,8 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-foxsports1_480/index.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 http://185.238.0.145:1313/c/alt/foxsports2-hd.m3u8
-https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2
@@ -512,17 +510,20 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
+http://tv.pmcon.net/hls/stream40.m3u8
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
+http://tv.pmcon.net/hls/stream39.m3u8
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
@@ -531,7 +532,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
-
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -693,6 +694,12 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion 3 
 http://gpc.my.id/vidio/champion-tv-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA 1 
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="SPORTS", SETANTA 2 
+http://92.43.140.200/s82/04.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
 http://adnaraoun.xyz/live/6161655/index.m3u8
