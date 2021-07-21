@@ -418,8 +418,8 @@ http://gpc.my.id/vidio/mnc.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", GTV
-http://gpc.my.id/vidio/gtv.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", TVRI
 http://gpc.my.id/vidio/tvri.m3u8
