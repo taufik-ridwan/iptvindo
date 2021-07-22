@@ -856,7 +856,7 @@ http://1.alhawalouh.xyz/live/6151278887/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-http://1.alhawalouh.xyz/live/918454578/index.m3u8
+http://212.224.98.207:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=
 http://135.181.31.32/hls/bein1.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -864,32 +864,32 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
+http://212.224.98.207:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://1.alhawalouh.xyz/live/645587700/index.m3u8
+http://212.224.98.207:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=
 http://freeiptvgen.com:25461/704892/freeiptvgen/3567
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+http://212.224.98.207:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=
 http://freeiptvgen.com:25461/704892/freeiptvgen/3568
 https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://1.alhawalouh.xyz/live/610303030/index.m3u8
+http://212.224.98.207:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=
 http://freeiptvgen.com:25461/704892/freeiptvgen/3569
 https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
 http://135.181.31.32/hls/bein4.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://1.alhawalouh.xyz/live/1515000000/index.m3u8
+http://212.224.98.207:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=
 http://freeiptvgen.com:25461/704892/freeiptvgen/3570
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://1.alhawalouh.xyz/live/791001144/index.m3u8
+http://212.224.98.207:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
