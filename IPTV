@@ -17,14 +17,12 @@ http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387539 
 http://nonton.wap.sh/id/009.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV
 https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387544
 http://nonton.wap.sh/id/001.m3u8
 http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 https://nonton.site:8443/provision/pp/31
@@ -55,7 +53,6 @@ http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387557 
 http://210.210.155.35/session/1e714c12-d9f1-11ea-b1f3-c81f66f89318/qwr9ew/s/s105/01.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
 https://nonton.site:8443/provision/pp/29
@@ -70,7 +67,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/31938756
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
