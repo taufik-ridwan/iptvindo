@@ -375,7 +375,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",DuckTV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=ducktv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
@@ -394,11 +394,9 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", TRANS 7
 http://gpc.my.id/vidio/trans7.m3u8
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", TRANS TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-733
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", NET TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-875
@@ -411,27 +409,24 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-777
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", KOMPAS TV
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", MNCTV
 http://gpc.my.id/vidio/mnc.m3u8
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", GTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", TVRI
 http://gpc.my.id/vidio/tvri.m3u8
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", JACK TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5415
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", AYAT LIVE
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
+
 
 ########################################################### TV ISLAM ###################################################
 
