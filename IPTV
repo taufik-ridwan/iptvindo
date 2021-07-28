@@ -274,7 +274,11 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-metrotv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", KOMPAS TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", UseeSports2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Useesports 1
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", UseeSports 2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Champion TV 1
@@ -314,7 +318,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=kplus&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Sony GEM TV
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Sony One 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
