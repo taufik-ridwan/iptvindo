@@ -124,6 +124,7 @@ http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="LOKAL",VISION PRIME 
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
@@ -248,36 +249,29 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 ########################################################   USEETV  ############################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV 
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=sctv
 https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", INDOSIAR
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=indosiar
 https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
 http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS 7
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=trans7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS TV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-transtv
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", NET TV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-net
 http://dituduhmaling.xyz/US33T4/net.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", RTV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-rtv
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", METRO TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-metrotv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", KOMPAS TV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-kompastv
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", UseeSports2
