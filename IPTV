@@ -264,11 +264,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 ########################################################   USEETV  ############################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV 
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", INDOSIAR
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
 http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS 7
@@ -284,7 +282,7 @@ http://dituduhmaling.xyz/US33T4/net.m3u8
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", METRO TV
-https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-metrotv
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", KOMPAS TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
