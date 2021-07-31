@@ -286,6 +286,8 @@ http://gpc.my.id/usee/net.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", RTV
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
 http://gpc.my.id/usee/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TVRI
 http://gpc.my.id/usee/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", METRO TV
