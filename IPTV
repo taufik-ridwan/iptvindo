@@ -500,7 +500,52 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-id="metrotv" tvg-logo="https://i.postimg.cc/MK50Xj46/metro-tv.png" group-title="VISION+",METRO TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://live
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title="VISION+",MNC TV HD
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="net" tvg-logo="https://i.postimg.cc/sX57zB7R/net.png" group-title="VISION+",NET TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJhZ5tQv/rcti.png" group-title="VISION+",RCTI HD
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://i.postimg.cc/TYtmTvLh/rtv.png" group-title="VISION+",RTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="VISION+",SCTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.postimg.cc/BntF67Hp/trans-tv.png" group-title="VISION+",TRANS TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.postimg.cc/BQSHWnvd/trans-7.png" group-title="VISION+",TRANS 7 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="VISION+",TV ONE 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 tvg-id="tvri" tvg-logo="https://i.postimg.cc/GpysPBMs/tvri.png" group-title="VISION+",TVRI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 ########################################################### TV ISLAM ###################################################
 
