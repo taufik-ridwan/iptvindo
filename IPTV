@@ -265,27 +265,35 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV 
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
+http://gpc.my.id/usee/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", INDOSIAR
 http://dituduhmaling.xyz/US33T4/indosiar.m3u8
+http://gpc.my.id/usee/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS 7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
+http://gpc.my.id/usee/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS TV
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
+http://gpc.my.id/usee/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", NET TV
 http://dituduhmaling.xyz/US33T4/net.m3u8
+http://gpc.my.id/usee/net.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", RTV
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
+http://gpc.my.id/usee/rtv.m3u8
+http://gpc.my.id/usee/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", METRO TV
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", KOMPAS TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+http://gpc.my.id/usee/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Useesports 1
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
