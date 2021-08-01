@@ -47,9 +47,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 https://link.zozotv.xyz:443/Freemium3/unlimited99/45
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387542
-http://nonton.wap.sh/id/002.m3u8
-http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=indosiar&b=205&c=480p
 
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
@@ -70,8 +67,6 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35/session/1e714c12-d9f1-11ea-b1f3-c81f66f89318/qwr9ew/s/s105/01.m3u8
-http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
-https://nonton.site:8443/provision/pp/29
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="INDONESIA",Metro TV
