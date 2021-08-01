@@ -306,6 +306,15 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Bein Sport 1 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png " group-title="USEETV",Bein Sport 2 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Golf 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Champion TV 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
@@ -1225,6 +1234,7 @@ http://92.43.140.200/s82/04.m3u8
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
+http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://212.224.98.207:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=
 http://135.181.31.32/hls/bein1.m3u8
@@ -1233,23 +1243,31 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
+http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 http://212.224.98.207:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
+http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
 http://135.181.31.32/hls/bein4.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
