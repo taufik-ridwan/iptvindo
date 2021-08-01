@@ -1042,7 +1042,7 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
-
+http://209.126.120.91/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
@@ -1215,17 +1215,16 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 http://92.43.140.200/s82/04.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
-http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
-http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
-http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
+
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://directn.mrnova.online/live/60043_.m3u8?token=ndirect50k
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://212.224.98.207:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=
 http://135.181.31.32/hls/bein1.m3u8
@@ -1234,40 +1233,23 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://directn.mrnova.online/live/60044_.m3u8?token=ndirect50k
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 http://212.224.98.207:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://directn.mrnova.online/live/60045_.m3u8?token=ndirect50k
-http://212.224.98.207:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=
-http://freeiptvgen.com:25461/704892/freeiptvgen/3567
 https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://directn.mrnova.online/live/60046_.m3u8?token=ndirect50k
-http://212.224.98.207:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=
-http://freeiptvgen.com:25461/704892/freeiptvgen/3568
 https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://directn.mrnova.online/live/60047_.m3u8?token=ndirect50k
-http://212.224.98.207:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=
-http://freeiptvgen.com:25461/704892/freeiptvgen/3569
 https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
 http://135.181.31.32/hls/bein4.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
-http://212.224.98.207:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=
-http://freeiptvgen.com:25461/704892/freeiptvgen/3570
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
-http://212.224.98.207:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
