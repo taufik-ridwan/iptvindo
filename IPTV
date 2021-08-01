@@ -1018,37 +1018,24 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-http://185.238.0.145:1313/c/alt/foxsports2-hd.m3u8
-http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-http://185.238.0.145:1313/c/alt/foxsports3-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS RACING
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
 http://209.126.120.91/hls/ten1.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
 http://209.126.120.91/hls/ten2.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://209.126.120.91/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
 http://209.126.120.91/hls/sonysix.m3u8
@@ -1058,149 +1045,73 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-http://54.36.165.216:85/SkySport1HD/tracks-v1a1/mono.m3u8?token=test&token=test
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-http://203.150.107.30:8081/tested2iptv/core104/playlist.m3u8
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS",SkyNet Sport 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="SPORTS",SkyNet Sport 3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="SPORTS",SkyNet Sport 4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="SPORTS",SkyNet Sport 5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="SPORTS",SkyNet Sport 6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17110
-https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
-http://160.119.77.50/iptv/hd-tsport1.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17111
-https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tsport2.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-http://cloudcdn.tk/OGuRpNm273/p2wYsh373/17112
-https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
-http://160.119.77.50/iptv/hd-tsport3.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
-http://160.119.77.50/iptv/hd-tsport4.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 1HD
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc/932633/932633/6708
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 2HD
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc/932633/932633/6710
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 3HD
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc/932633/932633/6711
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc/932633/932633/6712
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-http://160.119.77.50/iptv/uk-btsport1hd.stream/chunks.m3u8
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-http://160.119.77.50/iptv/uk-btsport2hd.stream/chunks.m3u8
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-http://160.119.77.50/iptv/uk-btsport3hd.stream/chunks.m3u8
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD 
-
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula 1 HD 
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/676-6766817_mola-tv-logo-png-transparent-png.png"group-title="SPORTS",MOLA SPORT TV
-
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://mantul.org/logo/useesport1.png",Usee Sport 1
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
@@ -1209,13 +1120,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion 1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion 2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion 3 
-http://gpc.my.id/vidio/champion-tv-3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA 1 
 http://ott-cdn.ucom.am/s81/03.m3u8
@@ -1236,31 +1147,19 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-http://212.224.98.207:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=
-http://135.181.31.32/hls/bein1.m3u8
-http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://212.224.98.207:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
 http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
-https://cdn-laos.workpoint.news/epl-bein3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-https://cdn-laos.workpoint.news/epl-bein4_720/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-https://cdn-laos.workpoint.news/epl-bein5_720/index.m3u8
-http://135.181.31.32/hls/bein4.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
