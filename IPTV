@@ -263,11 +263,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 
 ########################################################   USEETV  ############################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=sctv
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 http://gpc.my.id/usee/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", INDOSIAR
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
 http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 http://gpc.my.id/usee/indosiar.m3u8
 
@@ -1025,29 +1027,22 @@ http://185.238.0.145:1313/c/alt/foxsports3-hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://tv.pmcon.net/hls/stream40.m3u8
 http://209.126.120.91/hls/ten1.m3u8
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-http://tv.pmcon.net/hls/stream39.m3u8
 http://209.126.120.91/hls/ten2.m3u8
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://209.126.120.91/hls/ten3.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
-http://tv.pmcon.net/hls/stream10.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
@@ -1198,10 +1193,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/676-6766817_mola-tv-logo-png-transparent-png.png"group-title="SPORTS",MOLA SPORT TV
 
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 1
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://mantul.org/logo/useesport1.png",Usee Sport 1
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 2
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://mantul.org/logo/useesport2.png",Usee Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion 1
