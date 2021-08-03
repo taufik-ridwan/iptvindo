@@ -418,6 +418,36 @@ http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Horee
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Rodja TV 
+http://dituduhmaling.xyz/US33T4/rodjatv.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Tawaf TV 
+http://dituduhmaling.xyz/US33T4/tawaftv.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",MTA TV 
+http://dituduhmaling.xyz/US33T4/mtatv.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",MUI TV 
+http://dituduhmaling.xyz/US33T4/muitv.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",AL Quran AL Kareem 
+http://dituduhmaling.xyz/US33T4/alquran.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",MQTV 
+http://dituduhmaling.xyz/US33T4/mqtv.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",TV9 NU 
+http://dituduhmaling.xyz/US33T4/tv9.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Muhammadiyah TV 
+http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",AlJazeera 
+http://dituduhmaling.xyz/US33T4/aljazeera.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png"  group-title="USEETV",Dai TV 
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8 
+
 ########################################################### VIDIO ######################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", SCTV 
