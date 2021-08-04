@@ -1098,6 +1098,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8?wowzasessionid=1837633612
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="TV Islam",AL BAHJAH TV
