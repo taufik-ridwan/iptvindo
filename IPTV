@@ -650,9 +650,9 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tSHBkkK/soccer-channel.png" group-title="VISION+",SOCCER Channel
-https://liveanevia.mncnow.id/live/eds/SoccerChannel2/sa_dash_vmx/SoccerChannel2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="VISION+",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1358,15 +1358,12 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
-http://aputra.xyz/sports555/btsport1.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
-http://aputra.xyz/sports555/btsport2.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 
@@ -1380,10 +1377,10 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion 1
-
+https://link.zozotv.xyz/Freemium4/unlimited99/164
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion 2
-
+https://link.zozotv.xyz/Freemium4/unlimited99/165
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion 3 
 
