@@ -1126,12 +1126,15 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
+http://aputra.xyz/sports555/btsport1.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
+http://aputra.xyz/sports555/btsport2.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 
@@ -1223,7 +1226,8 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Global
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 ########################################################### KIDS #####################################################
 
