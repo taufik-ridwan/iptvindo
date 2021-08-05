@@ -490,12 +490,80 @@ http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", TVRI
 http://gpc.my.id/vidio/tvri.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Zee Bioskop
+http://gpc.my.id/vidio/zee-bioskop.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", JACK TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Zoo Moo
+http://gpc.my.id/vidio/zoomoo.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Zing
+http://gpc.my.id/vidio/zing.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", AYAT LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Smithsonian
+http://gpc.my.id/vidio/smithsonian.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Sea Today
+http://gpc.my.id/vidio/sea-today.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Shop
+http://gpc.my.id/vidio/oshop.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
+http://gpc.my.id/vidio/ochannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Nusantara TV
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", My TV
+http://gpc.my.id/vidio/mytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Musica
+http://gpc.my.id/vidio/musica.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Love Nature
+http://gpc.my.id/vidio/love-nature.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", KOMPAS TV
+http://gpc.my.id/vidio/kompas-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Jack TV
+http://gpc.my.id/vidio/jaktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Horee
+http://gpc.my.id/vidio/horee.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Hip Hip Horee
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", DW Asia
+http://gpc.my.id/vidio/dw-english.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", DAAI TV
+http://gpc.my.id/vidio/daai-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Da Vinci Learning
+http://gpc.my.id/vidio/da-vinci.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Citra Muslim
+http://gpc.my.id/vidio/citra-muslim.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Citra Drama
+http://gpc.my.id/vidio/citra-entertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Citra Dangdut
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Citra Bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Berita Satu
+http://gpc.my.id/vidio/beritasatu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Al-Qur'an Kareem
+http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Ajwa TV
+http://gpc.my.id/vidio/ajwa-tv.m3u8
 
 ############################################# VISION+ ###############################################################
 
