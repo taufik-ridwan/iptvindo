@@ -242,70 +242,70 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 
 ########################################################   MAXSTREAM  ############################################################
 
-#EXTINF:-1 group-title="MAXSTREAM",Bali TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Channel 4U tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Channel 4U 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Digione Maxstream tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Digione Maxstream 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Dunia Games TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Dunia Games TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Heroez Arena Jawa Bali tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Heroez Arena Jawa Bali 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",JakTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",JakTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",JTV Surabaya tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",JTV Surabaya 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Kompas TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Kompas TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Magna Channel tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Magna Channel 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Maxstream Music tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Maxstream Music 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",MCC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",MCC 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Metro TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Metro TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",MTA TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",MTA TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",MYTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",MYTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Rodja TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Rodja TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",RTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",RTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-
-#EXTINF:-1 group-title="MAXSTREAM",Ruang Trampil tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",SEA Today tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",The Indonesia Channel tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",The Indonesia Channel 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",TV Edukasi tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",TV Edukasi 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Usee Photo tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Usee Photo 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
-#EXTINF:-1 group-title="MAXSTREAM",Usee Prime tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Usee Prime 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 ########################################################   USEETV  ############################################################
@@ -346,13 +346,13 @@ http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://gpc.my.id/usee/kompastv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Nusantara TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Nusantara TV
 http://dituduhmaling.xyz/US33T4/nusantaratv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",RRI Net
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", RRI Net
 http://dituduhmaling.xyz/US33T4/rrinet.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Prambors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Prambors
 http://dituduhmaling.xyz/US33T4/pramborstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Useesports 1
@@ -398,13 +398,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Blue ant extreme
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",TV5 Monde
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TV5 Monde
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tv5monde&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",MTV Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",TRT World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRT World
 http://dituduhmaling.xyz/US33T4/trtworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", AXN
@@ -423,10 +423,10 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Sony One 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",NHK World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png", group-title="USEETV", NHK World
 http://dituduhmaling.xyz/US33T4/nhkworld.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",NHK World Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png", group-title="USEETV", NHK World Premium
 http://dituduhmaling.xyz/US33T4/nhkpremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", KBS World 
@@ -438,13 +438,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",CCTV4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",group-title="USEETV"  CCTV4
 http://dituduhmaling.xyz/US33T4/cctv4.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",SEA Today
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV" , SEA Today
 http://dituduhmaling.xyz/US33T4/seatoday.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Bioskop Indonesia 
@@ -465,13 +465,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Flik 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Warner TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",tvN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", tvN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvn&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",tvN Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", tvN Movies
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvnmovies&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Galaxy
@@ -492,13 +492,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", NAT GEO
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Discovery Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Discovery Channel
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Outdoor Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Outdoor Channel
 http://dituduhmaling.xyz/US33T4/outdoor.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",TV Edukasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TV Edukasi
 http://dituduhmaling.xyz/US33T4/tvedukasi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Aniplus 
@@ -516,19 +516,19 @@ http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Horee
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Baby First
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Baby First
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",CARTOON NETWORK
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",DreamWorks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Dreamworks
 http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",My Kidz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", My Kidz
 http://dituduhmaling.xyz/US33T4/mykids.m3u8
 
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV",Rodja TV 
@@ -561,82 +561,82 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aljazeera
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png"  group-title="USEETV",DAAI TV 
 http://dituduhmaling.xyz/US33T4/daaitv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",MShop Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", MShop Signature
 http://dituduhmaling.xyz/US33T4/mncshop.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",MNC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", MNC News
 http://dituduhmaling.xyz/US33T4/mncnews.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",ABC Australia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", ABC Australia
 http://dituduhmaling.xyz/US33T4/abcaustralia.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Antara TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Antara TV
 http://dituduhmaling.xyz/US33T4/antara.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Arirang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Arirang
 http://dituduhmaling.xyz/US33T4/arirang.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Bali TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Bali TV
 http://dituduhmaling.xyz/US33T4/balitv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Berita Satu
 http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Chinese Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Chinese Drama
 http://dituduhmaling.xyz/US33T4/chinesedrama.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Cinema World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Cinema World
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Citra Dangdut
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", CNBC Indonesia
 http://dituduhmaling.xyz/US33T4/cnbcindonesia.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", CNN Indonesia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cnnindonesia&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",CNN International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", CNN International
 http://dituduhmaling.xyz/US33T4/cnninternational.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Crime Investigation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Crime Investigation
 http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Da Vinci Learning
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Da Vinci Learning
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
-
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Eat & Go
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Eat & Go
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",EBC Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", EBC Asia
 http://dituduhmaling.xyz/US33T4/ettvasia.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",El John TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", El John TV
 http://dituduhmaling.xyz/US33T4/eljohn.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Euronews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Euronews
 http://dituduhmaling.xyz/US33T4/euronews.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Fashion TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Fashion TV
 http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Formosa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Formosa
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=formosa&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",I-Konser
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", I-Konser
 http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",IDX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", IDX
 http://dituduhmaling.xyz/US33T4/idx.m3u8
-
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",Indihome Shopping
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", Indihome Shopping
 http://dituduhmaling.xyz/US33T4/indishopping.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
-#EXTINF:-1 group-title="USEETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", History
 http://dituduhmaling.xyz/US33T4/history.m3u8
 
 ########################################################### VIDIO ######################################################
@@ -777,7 +777,7 @@ http://dituduhmaling.xyz/V11710/Zoomoo.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-id="balitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BALI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BALI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
@@ -787,7 +787,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-id="daaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",DAAI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
@@ -808,27 +808,27 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",INEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
-#EXTINF:-1 tvg-id="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
-#EXTINF:-1 tvg-id="jaktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",JAK TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",JAK TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="jtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",JTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",JTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 tvg-id="kompastv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",KOMPAS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",METRO TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",METRO TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
@@ -838,7 +838,7 @@ https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",MNC TV HD
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NET TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NET TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
@@ -848,32 +848,32 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",RCTI HD
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",RTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",RTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",SCTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",SCTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TRANS TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TRANS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TRANS 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TRANS 7 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
-#EXTINF:-1 tvg-id="tvone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TV ONE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TV ONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-id="tvri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TVRI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
@@ -883,32 +883,32 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NAT GEOGRAPHIC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-id="natgeowild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO WILD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="natgeopeople" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO PEOPLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO PEOPLE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
-#EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",HISTORY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",HISTORY 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-id="crimeinvestigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC", CRIME INVESTIGATION 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC", CRIME INVESTIGATION 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
@@ -928,7 +928,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="afc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",A.F.N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",A.F.N
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
@@ -943,22 +943,22 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
-#EXTINF:-1 tvg-id="foxsport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 
-#EXTINF:-1 tvg-id="foxsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 
-#EXTINF:-1 tvg-id="foxsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.pn" group-title="MNC",FOX SPORTS 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.pn" group-title="MNC",FOX SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.pn" group-title="MNC",BeIN Sports 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.pn" group-title="MNC",BeIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
@@ -968,12 +968,12 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.pn" group-title="MNC",BeIN Sports 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nick Jr 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nick Jr 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nickelodeon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
@@ -1003,7 +1003,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CARTOON NETWORK HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CARTOON NETWORK HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
@@ -1013,32 +1013,32 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd
 
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ANIMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ANIPLUS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ANIPLUS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ZEE TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ZEE TV 
 #https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ZEE CINEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ZEE CINEMA
 #https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
-#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",WARNER TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",WARNER TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-id="thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",THRILL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
@@ -1053,12 +1053,12 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",SCM 
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
-#EXTINF:-1 tvg-id="lifetime" tvg-id="lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",LifeTime 
+#EXTINF:-1 tvg-id="lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",LifeTime 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",KIX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",KIX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
@@ -1078,7 +1078,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FMN 
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CINEMA WORLD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CINEMA WORLD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
@@ -1088,12 +1088,12 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="celestialmovie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
@@ -1113,7 +1113,7 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Entertainment
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="wakuwaku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",WAKU WAKU JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",WAKU WAKU JAPAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
@@ -1491,10 +1491,6 @@ http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK3.png" group-title="SPORTS", SPORT KLUB 3
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
-
-
-
-
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
