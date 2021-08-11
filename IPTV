@@ -60,7 +60,7 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35/session/1e714c12-d9f1-11ea-b1f3-c81f66f89318/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="INDONESIA",Metro TV
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="INDONESIA",Metro TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -186,7 +186,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4d
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="LOKAL",Citra Drama
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8NMW8jT/dian.png" group-title="LOKAL", SaktiTV Madiun
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="LOKAL", SaktiTV Madiun
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/TV-BMW-Channel-Militer-250x132.png" group-title="LOKAL",BMS TV
@@ -204,19 +204,19 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-RCTV-logo-250px.png" group-title="LOKAL",RCTV
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/hiindo.png",Hi Indo
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/h4bbMBx1/logo-hiindo-big1.png",Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="LOKAL", Dunia Lain 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/tic.png",The Indonesia Channel 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png",The Indonesia Channel 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png",TV Edukasi 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13",TV Edukasi 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://kamiselaluada.com/img/seatoday.png",SEA TODAY 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1",SEA TODAY 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeInfo.png" group-title="LOKAL",Usee Info
@@ -1687,7 +1687,7 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png", FOX MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png", FOX MOVIES
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1717,27 +1717,27 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png", HBO
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1", HBO FAMILY
+#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.mncvision.id/userfiles/image/channel/hbo_family.png", HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1", HBO HITS
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.mncvision.id/userfiles/image/channel/hbo_hits.png", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1", HBO SIGNATURE
+#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.mncvision.id/userfiles/image/channel/hbo_signature.png", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax 
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.mncvision.id/userfiles/image/channel/cinemax.jpg", Cinemax 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ########################################################### MOVIES ###################################################
