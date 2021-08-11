@@ -310,25 +310,25 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 
 ########################################################   USEETV  ############################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", SCTV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", SCTV
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=sctv
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 http://gpc.my.id/usee/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", INDOSIAR
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
 http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 http://gpc.my.id/usee/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS 7
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRANS 7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
 http://gpc.my.id/usee/trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", TRANS TV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRANS TV
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
 http://gpc.my.id/usee/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="USEETV", NET TV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NET TV
 http://dituduhmaling.xyz/US33T4/net.m3u8
 http://gpc.my.id/usee/net.m3u8
 
