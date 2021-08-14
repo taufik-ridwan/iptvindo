@@ -240,6 +240,74 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_167.jpg" group-title="LOKAL",Channel 4U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
 
+########################################################    DENS TV   ############################################################
+
+EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV ", TVN 
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", TVN MOVIES 
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", BLUE ANT EXTREME 
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", K+ 
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CCTV4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", DW
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", NHK WORLD JAPAN
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SONY GEM TV 
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SONY ONE 
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CINEMA WORLD 
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CELESTIAL MOVIES 
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ZEE BIOSKOP 
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", THRILL 
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", TV5 MONDE
+http://210.210.155.35:80/uq2663/h/h01/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg " group-title="DENS TV", BLOOMBERG 
+http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", EGG TV 
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
 ########################################################   MAXSTREAM  ############################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Bali TV
