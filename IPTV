@@ -8,7 +8,7 @@ https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indo
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDONESIA",MNCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="INDONESIA",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
@@ -155,7 +155,7 @@ http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png" group-title="LOKAL",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest/scale-to-width-down/340?cb=20181017152803" group-title="LOKAL",Sinema Indonesia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="LOKAL",Sinema Indonesia
 http://210.210.155.69/s/s71/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://dutatv.com/wp-content/uploads/2019/06/dutatv-web-header.png" group-title="LOKAL",Duta TV
@@ -213,7 +213,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg",The Indonesia Channel 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TV_Edukasi_2004.png/revision/latest?cb=20180920093130" ,TV Edukasi 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png" ,TV Edukasi 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1",SEA TODAY 
