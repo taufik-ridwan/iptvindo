@@ -1586,31 +1586,38 @@ http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/5
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/6
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/7
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
@@ -1624,9 +1631,13 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
@@ -1636,8 +1647,13 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInMax 6 HD
 
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport NBA
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117124
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117129
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
@@ -1724,7 +1740,6 @@ http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/0
 #EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 http://210.210.155.35/session/fc33270c-7667-11ea-be8b-adacab444c6f/dr9445/h/h02/02.m3u8
-
 
 ########################################################### MUSIC ###################################################
 
