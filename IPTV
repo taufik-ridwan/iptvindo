@@ -31,7 +31,7 @@ http://nonton.wap.sh/id/001.m3u8
 http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 https://nonton.site:8443/provision/pp/31
 
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
@@ -243,7 +243,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 
 ########################################################    DENS TV   ############################################################
 
-EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANIMAX
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANIPLUS
@@ -308,6 +308,27 @@ http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", EGG TV 
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 
 ########################################################   MAXSTREAM  ############################################################
 
@@ -376,6 +397,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",Usee Prime 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",K+
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="MAXSTREAM",MaxZu
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/index.m3u8
 
 ########################################################   USEETV  ############################################################
 
