@@ -1421,7 +1421,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="KNOWLEDGE",OUTDOOR CHANNEL
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8 
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png" group-title="KNOWLEDGE",Discovery Channel
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134193
@@ -1446,6 +1445,7 @@ https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134185
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="KNOWLEDGE",National Geographic
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://203.153.218.28:9981/stream/channelid/681683355
@@ -1453,22 +1453,26 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/8
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134199
 http://203.153.218.28:9981/stream/channelid/1114683377
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134189
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/27
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8 
 http://103.146.185.235:8888/HM2019/Restream@2019/65
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg",Animal Planet
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/27
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
 http://mag.rapidiptv.xdns.pro:80/Mats12/2g1qPz1890/8010
 
@@ -1511,14 +1515,17 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 ########################################################### SPORTS ###################################################
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
@@ -1734,6 +1741,7 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 ########################################################### KIDS #####################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon TV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/21
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",Duck TV
@@ -1778,6 +1786,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:0 tvg-logo="https://img.favpng.com/19/6/5/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-png-favpng-9Lqu7NgcVLfnwLhjUcCPDb55z.jpg" group-title="KIDS",Disney Channel
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://79.137.41.99/DisneyChannel/index.m3u8
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
@@ -1924,16 +1933,19 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ########################################################### MOVIES ###################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1 
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8 
 http://203.153.218.28:9981/stream/channelid/1910872088
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6 
 http://aputra.xyz/cat12mves/foxlife.m3u8 
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4 
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -1941,23 +1953,27 @@ http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3 
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1949182550
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2 
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1744735983
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5 
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES",HBO
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
@@ -1967,6 +1983,7 @@ https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/52
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
@@ -1995,6 +2012,7 @@ https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX BY HBO
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/51
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
@@ -2019,11 +2037,13 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Extreme
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/71
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MOVIES",Blue Ant Entertainment
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/70
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
@@ -2046,15 +2066,18 @@ http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h
 http://210.210.155.35/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02/.m3u8
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="MOVIES",TvN movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/60
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134163
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 http://210.210.155.35/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02/.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIES",Hits Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLBji8leP3czG_eEYxH4yQ-ac_ld5DSnwsl1xt7yxykSxmoFT&s" group-title="MOVIES",Warner TV
@@ -2079,6 +2102,7 @@ http://45.126.83.51/uq2663/h/h04/index.m3u8
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/73
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134138
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -2136,6 +2160,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/pla
 http://203.162.235.41:16916/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png",&flix HD
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/53
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png",&pictures
