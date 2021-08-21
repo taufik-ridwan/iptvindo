@@ -738,24 +738,24 @@ http://dituduhmaling.xyz/US33T4/kungfutv.m3u8
 ########################################################### VIDIO ######################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ABC Australia
-http://gpc.my.id/vidio/adc_australia.m3u8
 http://dituduhmaling.xyz/V11710/abc_australia.m3u8
+http://gpc.my.id/vidio/abc_australia.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Ajwa TV
-http://gpc.my.id/vidio/ajwa-tv.m3u8
 http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
+http://gpc.my.id/vidio/ajwa-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Quran Kareem
-http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 http://dituduhmaling.xyz/V11710/Alquranalkareemtv.m3u8
+http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Jazeera
-http://gpc.my.id/vidio/Aljazeera.m3u8
 http://dituduhmaling.xyz/V11710/Aljazeera.m3u8
+http://gpc.my.id/vidio/Aljazeera.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Berita Satu
-http://gpc.my.id/vidio/beritasatu.m3u8
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
+http://gpc.my.id/vidio/beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
@@ -767,156 +767,156 @@ http://dituduhmaling.xyz/V11710/championstv2.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Bioskop
-http://gpc.my.id/vidio/citra-bioskop.m3u8
 http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8
+http://gpc.my.id/vidio/citra-bioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Dangdut
-http://gpc.my.id/vidio/citra-dangdut.m3u8
 http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
+http://gpc.my.id/vidio/citra-dangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Drama
-http://gpc.my.id/vidio/citradrama.m3u8
 http://dituduhmaling.xyz/V11710/Citradrama.m3u8
+http://gpc.my.id/vidio/citradrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Entertainment
-http://gpc.my.id/vidio/citraentertainment.m3u8
 http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8
+http://gpc.my.id/vidio/citraentertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Muslim
-http://gpc.my.id/vidio/citra-muslim.m3u8
 http://dituduhmaling.xyz/V11710/CitraMuslim.m3u8
+http://gpc.my.id/vidio/citra-muslim.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Da Vinci Learning
-http://gpc.my.id/vidio/da-vinci.m3u8
 http://dituduhmaling.xyz/V11710/Davinci.m3u8
+http://gpc.my.id/vidio/da-vinci.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",DAAI TV
-http://gpc.my.id/vidio/daai-tv.m3u8
 http://dituduhmaling.xyz/V11710/DAAI_TV.m3u8
+http://gpc.my.id/vidio/daai-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",DW Asia
-http://gpc.my.id/vidio/dw-english.m3u8
 http://dituduhmaling.xyz/V11710/dw-english.m3u8
+http://gpc.my.id/vidio/dw-english.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Euronews
-http://gpc.my.id/vidio/EuroNews.m3u8
 http://dituduhmaling.xyz/V11710/EuroNews.m3u8
+http://gpc.my.id/vidio/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",GTV
-http://gpc.my.id/vidio/gtv.m3u8
 http://dituduhmaling.xyz/V11710/GTV.m3u8
+http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",HIP HIP Horee
-http://gpc.my.id/vidio/hip-hip-horee.m3u8
 http://dituduhmaling.xyz/V11710/hiphiphoree.m3u8
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Horee
-http://gpc.my.id/vidio/horee.m3u8
 http://dituduhmaling.xyz/V11710/Horee.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Indosiar
-http://gpc.my.id/vidio/indosiar.m3u8
-http://dituduhmaling.xyz/V11710/Indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",iNews
-http://gpc.my.id/vidio/Inews.m3u8
-http://dituduhmaling.xyz/V11710/Inews.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",JakTV
-http://gpc.my.id/vidio/jaktv.m3u8
-http://dituduhmaling.xyz/V11710/Jaktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Kompas TV
-http://gpc.my.id/vidio/kompas-tv.m3u8
-http://dituduhmaling.xyz/V11710/Kompas.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Love Nature
-http://gpc.my.id/vidio/love-nature.m3u8
-http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Metro TV
-http://gpc.my.id/vidio/metro-tv.m3u8
-http://dituduhmaling.xyz/V11710/Metrotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MNC TV
-http://gpc.my.id/vidio/mnc.m3u8
-http://dituduhmaling.xyz/V11710/MNC.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Musica
-http://gpc.my.id/vidio/musica.m3u8
-http://dituduhmaling.xyz/V11710/musica.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MYTV
-http://gpc.my.id/vidio/mytv.m3u8
-http://dituduhmaling.xyz/V11710/Mytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",NET TV
-http://gpc.my.id/vidio/net-tv.m3u8
-http://dituduhmaling.xyz/V11710/NET_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Nusantara TV
-http://gpc.my.id/vidio/nusantara-tv.m3u8
-http://dituduhmaling.xyz/V11710/Nusantaratv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
-http://gpc.my.id/vidio/ochannel.m3u8
-http://dituduhmaling.xyz/V11710/Ochannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",O-Shop
-http://gpc.my.id/vidio/oshop.m3u8
-http://dituduhmaling.xyz/V11710/Oshop.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
-http://gpc.my.id/vidio/rcti.m3u8
-http://dituduhmaling.xyz/V11710/RCTI.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",RTV
-http://gpc.my.id/vidio/rtv.m3u8
-http://dituduhmaling.xyz/V11710/RTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
-http://gpc.my.id/vidio/sctv.m3u8
-http://dituduhmaling.xyz/V11710/SCTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SEA Today
-http://gpc.my.id/vidio/sea-today.m3u8
-http://dituduhmaling.xyz/V11710/seatoday.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Smithsonian Channel
-http://gpc.my.id/vidio/smithsonian.m3u8
-http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans7
-http://gpc.my.id/vidio/trans7.m3u8
-http://dituduhmaling.xyz/V11710/Trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans TV
-http://gpc.my.id/vidio/trans-tv.m3u8
-http://dituduhmaling.xyz/V11710/Transtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV Edukasi
-http://gpc.my.id/vidio/TVEdukasi.m3u8
-http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",tvN
-http://gpc.my.id/vidio/TVN.m3u8
-http://dituduhmaling.xyz/V11710/TVN.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TVRI
-http://gpc.my.id/vidio/tvri.m3u8
-http://dituduhmaling.xyz/V11710/TVRI.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zee Bioskop
-http://gpc.my.id/vidio/zee-bioskop.m3u8
-http://dituduhmaling.xyz/V11710/ZEEBIOSKOP.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zing
-http://gpc.my.id/vidio/zing.m3u8
-http://dituduhmaling.xyz/V11710/ZING.m3u8
+http://gpc.my.id/vidio/horee.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zoo Moo
-http://gpc.my.id/vidio/zoomoo.m3u8
 http://dituduhmaling.xyz/V11710/Zoomoo.m3u8
+http://gpc.my.id/vidio/zoomoo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Indosiar
+http://dituduhmaling.xyz/V11710/Indosiar.m3u8
+http://gpc.my.id/vidio/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",iNews
+http://dituduhmaling.xyz/V11710/Inews.m3u8
+http://gpc.my.id/vidio/Inews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",JakTV
+http://dituduhmaling.xyz/V11710/Jaktv.m3u8
+http://gpc.my.id/vidio/jaktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Kompas TV
+http://dituduhmaling.xyz/V11710/Kompas.m3u8
+http://gpc.my.id/vidio/kompas-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Love Nature
+http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
+http://gpc.my.id/vidio/love-nature.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Metro TV
+http://dituduhmaling.xyz/V11710/Metrotv.m3u8
+http://gpc.my.id/vidio/metro-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MNC TV
+http://dituduhmaling.xyz/V11710/MNC.m3u8
+http://gpc.my.id/vidio/mnc.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Musica
+http://dituduhmaling.xyz/V11710/musica.m3u8
+http://gpc.my.id/vidio/musica.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MYTV
+http://dituduhmaling.xyz/V11710/Mytv.m3u8
+http://gpc.my.id/vidio/mytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",NET TV
+http://dituduhmaling.xyz/V11710/NET_TV.m3u8
+http://gpc.my.id/vidio/net-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Nusantara TV
+http://dituduhmaling.xyz/V11710/Nusantaratv.m3u8
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
+http://dituduhmaling.xyz/V11710/Ochannel.m3u8
+http://gpc.my.id/vidio/ochannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",O-Shop
+http://dituduhmaling.xyz/V11710/Oshop.m3u8
+http://gpc.my.id/vidio/oshop.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
+http://dituduhmaling.xyz/V11710/RCTI.m3u8
+http://gpc.my.id/vidio/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",RTV
+http://dituduhmaling.xyz/V11710/RTV.m3u8
+http://gpc.my.id/vidio/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
+http://dituduhmaling.xyz/V11710/SCTV.m3u8
+http://gpc.my.id/vidio/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SEA Today
+http://dituduhmaling.xyz/V11710/seatoday.m3u8
+http://gpc.my.id/vidio/sea-today.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Smithsonian Channel
+http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
+http://gpc.my.id/vidio/smithsonian.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans7
+http://dituduhmaling.xyz/V11710/Trans7.m3u8
+http://gpc.my.id/vidio/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans TV
+http://dituduhmaling.xyz/V11710/Transtv.m3u8
+http://gpc.my.id/vidio/trans-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV Edukasi
+http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
+http://gpc.my.id/vidio/TVEdukasi.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",tvN
+http://dituduhmaling.xyz/V11710/TVN.m3u8
+http://gpc.my.id/vidio/TVN.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TVRI
+http://dituduhmaling.xyz/V11710/TVRI.m3u8
+http://gpc.my.id/vidio/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zee Bioskop
+http://dituduhmaling.xyz/V11710/ZEEBIOSKOP.m3u8
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zing
+http://dituduhmaling.xyz/V11710/ZING.m3u8
+http://gpc.my.id/vidio/zing.m3u8
 
 ############################################# MNC VISION ###############################################################
 
