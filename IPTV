@@ -1635,16 +1635,16 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 1HD
-https://linear-playback.astro.com.my/linear-livewvdaf/601/default_ott.mpd
+http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 2HD
-
+http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 3HD
-
+http://iptv.tvmalaysia.cc/penang200/penang200/6711
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
-
+http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
