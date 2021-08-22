@@ -755,12 +755,15 @@ http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 http://gpc.my.id/vidio/beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6685
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6686
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6786
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Bioskop
