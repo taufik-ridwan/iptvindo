@@ -1546,7 +1546,7 @@ http://173.199.120.51/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
-http://173.199.120.51/hls/sonysix.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
@@ -1606,8 +1606,7 @@ http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
-http://85.203.33.88/HansJ12/Of7KV7088/23450
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
