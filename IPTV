@@ -1523,7 +1523,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORT 2
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
@@ -1534,22 +1534,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://209.126.120.91/hls/ten1.m3u8
 http://173.199.120.51/hls/ten1.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-http://209.126.120.91/hls/ten2.m3u8
 http://173.199.120.51/hls/ten2.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-http://209.126.120.91/hls/ten3.m3u8
 http://173.199.120.51/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
-http://209.126.120.91/hls/sonysix.m3u8
+http://173.199.120.51/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
@@ -1600,16 +1597,13 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 1HD
-http://85.203.33.88/HansJ12/Of7KV7088/23453
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 2HD
-http://85.203.33.88/HansJ12/Of7KV7088/23452
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 3HD
-http://85.203.33.88/HansJ12/Of7KV7088/23451
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORTS",Astro Super Sport 4HD
 http://85.203.33.88/HansJ12/Of7KV7088/23450
@@ -1671,38 +1665,31 @@ http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/5
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/6
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/7
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
@@ -1716,13 +1703,13 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
@@ -1733,11 +1720,10 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117124
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117129
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
