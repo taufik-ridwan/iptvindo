@@ -810,6 +810,9 @@ http://gpc.my.id/vidio/da-vinci.m3u8
 http://dituduhmaling.xyz/V11710/DAAI_TV.m3u8
 http://gpc.my.id/vidio/daai-tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Channel V
+https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6898
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",DW Asia
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-5075
 http://dituduhmaling.xyz/V11710/dw-english.m3u8
