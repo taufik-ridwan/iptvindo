@@ -1448,7 +1448,7 @@ http://103.146.185.235:8888/HM2019/Restream@2019/10
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_famcTc7Z2Ho6i_KI7Fh99qARcDDLOXWjjzI2h7JFoXdXZFxQ&s" group-title="KNOWLEDGE",TECHSTORM
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="KNOWLEDGE",NASA TV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/51/1004/png-transparent-ames-research-center-nasa-tv-nasa-insignia-project-gemini-nasa-miscellaneous-blue-logo.png" group-title="KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -1465,20 +1465,19 @@ https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/779
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="KNOWLEDGE",Discovery Shed
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/333
 
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Turbo
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/462
 
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Discovery Science HD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/452-4528513_discovery-science-logo-png-transparent-png.png" group-title="KNOWLEDGE",Discovery Science HD
 https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/37392
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="KNOWLEDGE",Love Nature 4K
 https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/36767
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/385
 http://103.146.185.235:8888/HM2019/Restream@2019/1030
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 
