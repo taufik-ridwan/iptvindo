@@ -2142,46 +2142,38 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",RED BY HBO
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIES",RED BY HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
-https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2mV7ZoDhx7g2ud2rTgcSpJFsf9eYxJX27XC7XrgG-dYgL__KvRw&s" group-title="MOVIES",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES",Celestial Movies
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/5
 http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/siuEzEO.png",CELESTIAL CLASSIC MOVIES
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/2118
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Extreme
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/71
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
-http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MOVIES",Blue Ant Entertainment
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/70
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/1506
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="MOVIES",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MOVIES",AXN
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/9
 http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
-http://106.54.30.243/gz009/gz.php?id=axn
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://203.153.218.28:9981/stream/channelid/882386103
-http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="MOVIES",Waku-Waku Japan
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/717
@@ -2193,42 +2185,39 @@ http://210.210.155.35/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="MOVIES",TvN movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/60
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134163
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
-http://210.210.155.35/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02/.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/1195
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIES",Hits Movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/957
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MOVIES",Galaxy 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MOVIES",Galaxy
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/29604 
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES",Galaxy Premium
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/29603
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLBji8leP3czG_eEYxH4yQ-ac_ld5DSnwsl1xt7yxykSxmoFT&s" group-title="MOVIES",Warner TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES",Warner TV
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/1533
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8 
-http://203.154.243.89:11205
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="MOVIES",THRIL
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES",THRIL
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/4
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-http://45.126.83.51/session/94e87a74-8d3d-11ea-9caf-922bb8f06b04/qwr9ew/s/s34/01.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClSwlqI.png" group-title="MOVIES",CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-http://210.210.155.35/session/d61ab71e-75ff-11ea-9d83-96ebb1a4f240/uq2663/h/h04/01.m3u8
-http://210.210.155.66/h/h04/01.m3u8
 http://45.126.83.51/uq2663/h/h04/index.m3u8
+http://210.210.155.35/session/d61ab71e-75ff-11ea-9d83-96ebb1a4f240/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYWGJBC.png" group-title="MOVIES",My Cinema
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
@@ -2241,29 +2230,30 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/223
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/73
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134138
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES",KIX
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/8
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8 
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="MOVIES",Star Chinese Movies HD
-
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/780
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="MOVIES",Star Chinese Movies Legend
-
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/1859
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="MOVIES",Star World
-
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/381
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/7
 http://rr2.dens.tv/s/s32/01.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/35484 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="MOVIES",Bioskop Indonesia 
