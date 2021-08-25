@@ -2148,7 +2148,6 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MOVIES",AXN
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/9
 http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
 http://106.54.30.243/gz009/gz.php?id=axn
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
@@ -2178,19 +2177,17 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MOVIES",Galaxy 
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/29604
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES",Galaxy Premium
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/29603
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLBji8leP3czG_eEYxH4yQ-ac_ld5DSnwsl1xt7yxykSxmoFT&s" group-title="MOVIES",Warner TV
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/1533
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8 
 http://203.154.243.89:11205
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="MOVIES",THRILL
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/4
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="MOVIES",THRIL
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 http://45.126.83.51/session/94e87a74-8d3d-11ea-9caf-922bb8f06b04/qwr9ew/s/s34/01.m3u8
@@ -2224,13 +2221,13 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="MOVIES",Star Chinese Movies HD
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/780
+
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="MOVIES",Star Chinese Movies Legend
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/1859
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="MOVIES",Star World
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/381
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
@@ -2239,7 +2236,7 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="ShareExt@MOVIES",Bioskop Indonesia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="MOVIES",Bioskop Indonesia 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/73
 
 #EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="MOVIES",Retro TV
