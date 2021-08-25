@@ -1731,7 +1731,7 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/161
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ShareExt@SSPORTS",NBC Golf 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",NBC Golf 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
 
 #EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK1.png" group-title="SPORTS", SPORT KLUB 1
@@ -1823,7 +1823,6 @@ http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/123
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/680
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 http://79.137.41.99/Cartoonnetwork/index.m3u8
 http://50.7.177.102:9999/8
@@ -1858,7 +1857,7 @@ https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/1204
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="ShareExt@KIDS",My Kidz 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="KIDS",My Kidz 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/131
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",Toonmax
@@ -1878,14 +1877,10 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yFM4DTk/TFDG.png" group-title="KIDS",DISNEY JUNIOR Indo HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/122
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/213
 http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Mn34XY4/IY.png" group-title="KIDS",Disney Channel
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/120
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/306
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://79.137.41.99/DisneyChannel/index.m3u8
@@ -1915,7 +1910,6 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w70
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/media_w1777274510_21121.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Animax_old_logo.png" group-title="KIDS",ANIMAX
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/3
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
@@ -1923,7 +1917,6 @@ http://45.126.83.51/session/75d43bfe-7669-11ea-828a-a82d9563734d/dr9445/h/h144/0
 http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS",ANIPLUS
-https://nonton.site:8443/RickyTjahyadi/uOgx2Krrnq/2
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 http://210.210.155.35/session/fc33270c-7667-11ea-be8b-adacab444c6f/dr9445/h/h02/02.m3u8
 
