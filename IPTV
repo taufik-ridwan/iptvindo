@@ -903,9 +903,9 @@ http://dituduhmaling.xyz/V11710/NET_TV.m3u8
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-875
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Nusantara TV
+http://gpc.my.id/vidio/nusantara-tv.m3u8
 http://dituduhmaling.xyz/V11710/Nusantaratv.m3u8
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-7432
-http://gpc.my.id/vidio/nusantara-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
 http://dituduhmaling.xyz/V11710/Ochannel.m3u8
@@ -947,9 +947,10 @@ http://dituduhmaling.xyz/V11710/Trans7.m3u8
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-734
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans TV
+http://gpc.my.id/vidio/trans-tv.m3u8
 http://dituduhmaling.xyz/V11710/Transtv.m3u8
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-733
-http://gpc.my.id/vidio/trans-tv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV Edukasi
 http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
