@@ -1654,11 +1654,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3 
@@ -1693,13 +1691,11 @@ http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/155
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/156
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
@@ -1735,13 +1731,13 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInPremium 1 HD
-
+http://55.1-bour.xyz/live/6161655/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInPremium 2 HD
-
+http://55.1-bour.xyz/live/616194987/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInPremium 3 HD
-
+http://55.1-bour.xyz/live/6151278887/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInMax 2 HD
