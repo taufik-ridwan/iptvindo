@@ -1533,19 +1533,16 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/152
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORT 2
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/153
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/154
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
@@ -1616,19 +1613,15 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 1HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",Astro Super Sport 2HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
 http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",Astro Super Sport 3HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
 http://iptv.tvmalaysia.cc/penang200/penang200/6711
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",Astro Super Sport 4HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
@@ -1675,10 +1668,10 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/161
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",NBC Golf 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
+
 
 #EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK1.png" group-title="SPORTS", SPORT KLUB 1
 http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
@@ -1787,42 +1780,36 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/123
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="KIDS",Dreamworks 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/125
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="KIDS",NICK JR
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/128
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICKELODEON
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/127
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="KIDS",Horee
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/129
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="KIDS",Baby First
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/132
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="KIDS",My Kidz 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/131
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",Toonmax
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2Y684t/DUT.png" group-title="KIDS",Zoo Moo HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/130
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="KIDS",Boomerang
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/126
 http://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
@@ -1841,7 +1828,6 @@ http://79.137.41.99/DisneyChannel/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/182
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w702505816.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/MaljatkoTV.ua.png" group-title="KIDS",SAT KIDS TV 
@@ -1973,82 +1959,48 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6 
 http://aputra.xyz/cat12mves/foxlife.m3u8 
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4 
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
-http://203.153.218.28:9981/stream/channelid/756717990
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3 
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-http://203.153.218.28:9981/stream/channelid/1949182550
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2 
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-http://203.153.218.28:9981/stream/channelid/1744735983
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5 
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES",HBO
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
-http://fdtvapps.xyz/channel/hbo.m3u8
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-http://203.153.218.28:9981/stream/channelid/1299824667
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/52
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8 
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-http://fdtvapps.xyz/channel/hbohits.m3u8
-http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
-https://dl.dropbox.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8?dl=0
-http://fdtvapps.xyz/channel/hbofam.m3u8
-http://203.153.218.28:9981/stream/channelid/1316004766
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
-https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
-https://liveorigin02.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-http://203.153.218.28:9981/stream/channelid/1197019186
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX BY HBO
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/51
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-http://203.153.218.28:9981/stream/channelid/255605374
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIES",RED BY HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
@@ -2121,10 +2073,10 @@ http://210.210.155.35/session/d61ab71e-75ff-11ea-9d83-96ebb1a4f240/uq2663/h/h04/
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="MOVIES",MNX HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/222
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES",SONY PIX
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/223
+
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/73
@@ -2148,10 +2100,10 @@ http://rr2.dens.tv/s/s32/01.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="MOVIES",Bioskop Indonesia 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/73
+
 
 #EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="MOVIES",Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
