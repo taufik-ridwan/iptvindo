@@ -20,21 +20,18 @@ http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/32
+
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/931
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV
 https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/31
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA",TRANS 7
 https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/35
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/930
 
 #EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
@@ -1924,7 +1921,6 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png", HBO
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1949,40 +1945,32 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ########################################################### MOVIES ###################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8 
 http://203.153.218.28:9981/stream/channelid/1910872088
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE 
 http://aputra.xyz/cat12mves/foxlife.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies 
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES",HBO
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/52
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
@@ -1996,7 +1984,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX BY HBO
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/51
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -2014,12 +2001,10 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Extreme
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/71
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MOVIES",Blue Ant Entertainment
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/70
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="MOVIES",FX
@@ -2038,16 +2023,13 @@ http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h
 http://210.210.155.35/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02/.m3u8
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="MOVIES",TvN movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/60
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MOVIES",HITS
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIES",Hits Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MOVIES",Galaxy
@@ -2078,7 +2060,6 @@ https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
 
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",SONY ONE
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/73
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES",KIX
@@ -2148,7 +2129,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/pla
 http://203.162.235.41:16916/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png",&flix HD
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/53
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png",&pictures
