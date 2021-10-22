@@ -1652,18 +1652,23 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
+https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
@@ -1685,15 +1690,19 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 1HD
@@ -1709,6 +1718,7 @@ http://iptv.tvmalaysia.cc/penang200/penang200/6711
 http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -1767,6 +1777,7 @@ http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD1-1-1.png",BeInSport 1 HD
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -1808,12 +1819,15 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",BeInPremium 1 HD
+http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
 http://55.1-bour.xyz/live/6161655/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeInPremium 2 HD
+http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 http://55.1-bour.xyz/live/616194987/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",BeInPremium 3 HD
+http://sos.moukrasa.xyz/live/6151278887/index.m3u8
 http://55.1-bour.xyz/live/6151278887/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInMax 1 HD
@@ -1866,12 +1880,15 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="KIDS",NICK JR
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICKELODEON
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
@@ -1889,6 +1906,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2Y684t/DUT.png" group-title="KIDS",Zoo Moo HD
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="KIDS",Boomerang
