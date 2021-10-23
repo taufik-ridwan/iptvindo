@@ -805,16 +805,19 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+http://golive.cf/stream/champion1.m3u8
 https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+http://golive.cf/stream/champion2.m3u8
 https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+http://golive.cf/stream/champion3.m3u8
 https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
@@ -1177,6 +1180,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC", FOX SPORTS 1
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3130
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2489
+http://38.131.11.34:1080/play/a02k
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORTS 2
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3129
@@ -1741,12 +1745,15 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
+http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
+http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
+http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA 1 
@@ -1761,7 +1768,10 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS", RMC SPORTS 2
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Adu Ayam
+https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",NBC Golf 
