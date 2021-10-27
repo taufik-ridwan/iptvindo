@@ -797,18 +797,21 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 http://golive.cf/stream/champion1.m3u8
 https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 http://golive.cf/stream/champion2.m3u8
 https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 http://golive.cf/stream/champion3.m3u8
 https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-3.m3u8
@@ -1737,14 +1740,17 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
+https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
+https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
