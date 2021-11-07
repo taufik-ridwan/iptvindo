@@ -1549,6 +1549,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/98
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="KNOWLEDGE",Discovery Shed
+http://stream.tvtap.live:8081/live/discoveryshed.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDQ6MDA6MDIgQU0maGFzaF92YWx1ZT1SZXUxcmVqR2ZZZXBkZlJQb2dHQ1V3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
@@ -1579,12 +1580,7 @@ https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134185
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="KNOWLEDGE",National Geographic
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-http://203.153.218.28:9981/stream/channelid/681683355
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDQ6MDY6MzEgQU0maGFzaF92YWx1ZT0wNWh6OUZkTWh4VVlNN3ZqZC9JVFRnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="KNOWLEDGE",AFC 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/100
