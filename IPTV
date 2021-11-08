@@ -904,9 +904,7 @@ http://dituduhmaling.xyz/V11710/EuroNews.m3u8
 http://gpc.my.id/vidio/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",GTV
-https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
-http://gpc.my.id/vidio/gtv.m3u8
-http://dituduhmaling.xyz/V11710/GTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",HIP HIP Horee
 http://dituduhmaling.xyz/V11710/hiphiphoree.m3u8
@@ -926,9 +924,7 @@ http://dituduhmaling.xyz/V11710/Indosiar.m3u8
 http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",iNews
-https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Inews.m3u8
-http://gpc.my.id/vidio/Inews.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",JakTV
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
@@ -950,9 +946,7 @@ http://dituduhmaling.xyz/V11710/Metrotv.m3u8
 http://gpc.my.id/vidio/metro-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MNC TV
-https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
-http://gpc.my.id/vidio/mnc.m3u8
-http://dituduhmaling.xyz/V11710/MNC.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Musica
 http://dituduhmaling.xyz/V11710/musica.m3u8
@@ -984,9 +978,7 @@ http://dituduhmaling.xyz/V11710/Oshop.m3u8
 http://gpc.my.id/vidio/oshop.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
-https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/RCTI.m3u8
-http://gpc.my.id/vidio/rcti.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
