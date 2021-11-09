@@ -1443,11 +1443,10 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8?wowzasessionid=1837633612
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="TV Islam",AL BAHJAH TV
-https://e1.siar.us/albahjahtv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CWb5ok09I_E/W9Zz5occECI/AAAAAAAAgAA/HxEMl61IzsUNMaaI-GQEQuAsdE_B_PuaQCLcBGAs/s320/surau%2Btv.png" group-title="TV Islam",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w180939424.m3u8
@@ -1812,33 +1811,40 @@ http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD1-1-1.png",BeInSport 1 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/36424
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD2-1-1.png",BeInSport 2 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/8260
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD3-1-1.png",BeInSport 3 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/137024
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD4-1-2.png",BeInSport 4 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/3060
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD5-1-1.png",BeInSport 5 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/3059
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD6-1-1.png",BeInSport 6 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/36426
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png",BeInSport 7 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/3057
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
@@ -1854,14 +1860,17 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 17 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",BeInPremium 1 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/36418
 http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
 http://55.1-bour.xyz/live/6161655/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeInPremium 2 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/36420
 http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 http://55.1-bour.xyz/live/616194987/index.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",BeInPremium 3 HD
+http://smartgo.site:8080/8298937393816531/8298937393816531/36415
 http://sos.moukrasa.xyz/live/6151278887/index.m3u8
 http://55.1-bour.xyz/live/6151278887/index.m3u8
 
@@ -1873,7 +1882,7 @@ http://55.1-bour.xyz/live/6151278887/index.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInMax 6 HD
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeIN Sports News
-
+http://smartgo.site:8080/8298937393816531/8298937393816531/3047
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -1902,7 +1911,6 @@ http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
 ########################################################### KIDS #####################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon TV
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/21
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",Duck TV
