@@ -1492,7 +1492,6 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_123.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1280px-Logo_MQTV.png" group-title="TV Islam", MQTV
-https://v3.siar.us/syiarmedia/live/playlist.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="TV Islam", ASHIIL TV
@@ -1567,7 +1566,6 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/91
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134185
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="KNOWLEDGE",National Geographic
@@ -1582,22 +1580,16 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/101
 #EXTINF:-1 tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="KNOWLEDGE",Lingua Channel
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/8
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134199
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1114683377
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134189
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
 https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/27
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8 
-http://103.146.185.235:8888/HM2019/Restream@2019/65
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwFdlFOfvqV-8GF99MBAB-J6IgWdzuAUSBQOgPjK7VkXGJJD27" group-title="KNOWLEDGE",The Pet Collevtive
 https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -1639,19 +1631,16 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57999
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORT 2
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57998
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57997
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
