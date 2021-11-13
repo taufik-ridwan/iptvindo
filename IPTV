@@ -435,6 +435,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://dituduhmaling.xyz/US33T4/nusantaratv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Indonesiana
+http://iptvid.my.id/ch/indonesiana.m3u8?by=iptv_id
 http://iptvid.my.id/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", RRI Net
@@ -504,26 +505,30 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://dituduhmaling.xyz/US33T4/trtworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KIX
+http://iptvid.my.id/ch/kix.m3u8?by=iptv_id
 http://iptvid.my.id/kix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", AXN
-http://iptvid.my.id/axn.m3u8
+http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Waku Waku Japan 
-http://iptvid.my.id/waku2.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Waku Waku Japan
+http://iptvid.my.id/ch/waku2.m3u8?by=iptv_id
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", K+ 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", K+
+http://iptvid.my.id/ch/kplus.m3u8?by=iptv_id
 http://iptvid.my.id/kplus.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=kplus&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Sony GEM TV
+http://iptvid.my.id/ch/sgem.m3u8?by=iptv_id
 http://iptvid.my.id/sgem.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Sony One 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Sony One
+http://iptvid.my.id/ch/sone.m3u8?by=iptv_id
 http://iptvid.my.id/sone.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
 
@@ -560,13 +565,16 @@ http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", My Cinema
+http://iptvid.my.id/ch/mycn.m3u8?by=iptv_id
 http://iptvid.my.id/mycn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", My Family Cinema
+http://iptvid.my.id/ch/myrc.m3u8?by=iptv_id
 http://iptvid.my.id/myfc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", My Cinema Asia
+http://iptvid.my.id/ch/myca.m3u8?by=iptv_id
 http://iptvid.my.id/myca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Zee Bioskop 
@@ -582,41 +590,51 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&s
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Cinema World
+http://iptvid.my.id/ch/cnmwrld.m3u8?by=iptv_id
 http://iptvid.my.id/cnmwrld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Paramount
+http://iptvid.my.id/ch/paramount.m3u8?by=iptv_id
 http://iptvid.my.id/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Warner TV
+http://iptvid.my.id/ch/wrnr.m3u8?by=iptv_id
 http://iptvid.my.id/wrnr.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", HITS
+http://iptvid.my.id/ch/hits.m3u8?by=iptv_id
 http://iptvid.my.id/hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", HITS MOVIE
+http://iptvid.my.id/ch/hitsmovie.m3u8?by=iptv_id
 http://iptvid.my.id/hitsmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", tvN
+http://iptvid.my.id/ch/tvn.m3u8?by=iptv_id
 http://iptvid.my.id/tvn.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvn&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", tvN Movies
+http://iptvid.my.id/ch/tvnmovie.m3u8?by=iptv_id
 http://iptvid.my.id/tvnmovie.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvnmovies&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Galaxy
+http://iptvid.my.id/ch/glx.m3u8?by=iptv_id
 http://iptvid.my.id/glx.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Galaxy Premium
+http://iptvid.my.id/ch/glxprem.m3u8?by=iptv_id
 http://iptvid.my.id/glxprem.m3u8 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Rock Entertainment
+http://iptvid.my.id/ch/rock.m3u8?by=iptv_id
 http://iptvid.my.id/rock.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", IMC 
@@ -629,6 +647,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NAT GEO
+http://iptvid.my.id/ch/natgeo.m3u8?by=iptv_id
 http://iptvid.my.id/natgeo.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 
