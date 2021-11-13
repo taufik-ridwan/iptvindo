@@ -426,11 +426,13 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KOMPAS TV
+http://iptvid.my.id/ch/kompastv.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://gpc.my.id/usee/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Nusantara TV
+http://iptvid.my.id/ch/nusantaratv.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/nusantaratv.m3u8
 
@@ -439,6 +441,7 @@ http://iptvid.my.id/ch/indonesiana.m3u8?by=iptv_id
 http://iptvid.my.id/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", RRI Net
+http://iptvid.my.id/ch/rrinet.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/rrinet.m3u8
 http://gpc.my.id/usee/rrinet.m3u8
@@ -464,9 +467,11 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Champion TV 1
+http://iptvid.my.id/ch/champion1.m3u8?by=iptv_id
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Champion TV 2
+http://iptvid.my.id/ch/champion2.m3u8?by=iptv_id
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=champion2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 
@@ -495,12 +500,15 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&s
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tv5monde&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", MTV Live
+http://iptvid.my.id/ch/mtvlive.m3u8?by=iptv_id
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", FRANCE24
+http://iptvid.my.id/ch/france24.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRT World
+http://iptvid.my.id/ch/trtworld.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
 http://dituduhmaling.xyz/US33T4/trtworld.m3u8
 
