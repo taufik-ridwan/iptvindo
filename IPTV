@@ -1461,7 +1461,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 #EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",IQRA TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="TV Islam",NABAWI TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="TV Islam",NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
