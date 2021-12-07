@@ -1468,7 +1468,7 @@ http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="TV Islam",AL BAHJAH TV
-
+https://e1.siar.us/albahjahtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CWb5ok09I_E/W9Zz5occECI/AAAAAAAAgAA/HxEMl61IzsUNMaaI-GQEQuAsdE_B_PuaQCLcBGAs/s320/surau%2Btv.png" group-title="TV Islam",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w180939424.m3u8
@@ -1478,6 +1478,9 @@ http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/izzah-tv-id.png", group-title="TV Islam", IZZAH TV 
 https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYe_X3EVXJ9iUdIFgn3CV-D-g4gu6vyYEo0A&usqp=CAU" group-title="TV Islam", ALWAFA MEDIA TV
+https://am.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
