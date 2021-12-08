@@ -863,6 +863,9 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
+http://golive.cf/vidio/live-champion1.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 http://golive.cf/stream/champion1.m3u8
 https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
@@ -870,6 +873,9 @@ http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
+http://golive.cf/vidio/live-champion2.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 http://golive.cf/stream/champion2.m3u8
 https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
@@ -877,6 +883,8 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+http://golive.cf/vidio/live-champion3.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 http://golive.cf/stream/champion3.m3u8
 https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
@@ -1782,16 +1790,21 @@ http://103.226.232.199:8004/play/a04m/index.m3u8?token=shareext
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+
 https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+
 https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
