@@ -2068,30 +2068,25 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 ##################################### FOX & HBO ###########################################
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png", FOX MOVIES
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58000
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1Sh4gTfygbKDeJLQJqfeM8B4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOXCRIME
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOX CRIME
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1SmKafAIt7LW5IgHpk1DsE7k
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox%20action%203.png?dl=1", FOX ACTION MOVIES
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58005
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1SiStwIZbYLsVt0MicAtOu4M
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1Sgcy8aLPLqelzyxwwjzQIKA
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox%20tv.png?dl=1", FOX
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3132
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58002
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1Skp4r2AR4AQQsOqaYGubnoU
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58001
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1Sr_IOA7DyLyZREZcz3L5GMU
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://lnk.ec/hboID?shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
