@@ -1572,6 +1572,9 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hijrah-tv-id.png", group-title="TV Islam", HIJRAH TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.binamadani.org/putra/wp-content/uploads/2016/01/logo-utama.png", group-title="TV Islam", BINA MADANI TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+
 #EXTINF:-1 tvg-logo="http://upload.livetvgo.my.id/1596791185_gazwah.jpg", group-title="TV Islam", GAZWAH TV 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rasyaad-tv-id.png", group-title="TV Islam", RASYAAD TV
