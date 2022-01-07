@@ -863,6 +863,7 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
 http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
 http://golive.cf/vidio/live-champion1.m3u8
@@ -873,6 +874,7 @@ http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
 http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
 http://golive.cf/vidio/live-champion2.m3u8
@@ -883,6 +885,7 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 http://golive.cf/vidio/live-champion3.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
@@ -1876,16 +1879,23 @@ https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 1HD
+http://iptv.tvmalaysia.cc/penang198/penang198/6708
 http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",Astro Super Sport 2HD
+http://iptv.tvmalaysia.cc/penang198/penang198/9025
 http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",Astro Super Sport 3HD
+http://iptv.tvmalaysia.cc/penang198/penang198/6711
 http://iptv.tvmalaysia.cc/penang200/penang200/6711
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",Astro Super Sport 4HD
+http://iptv.tvmalaysia.cc/penang198/penang198/9026
 http://iptv.tvmalaysia.cc/penang200/penang200/6712
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 5HD
+http://iptv.tvmalaysia.cc/penang198/penang198/6793
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
@@ -1913,22 +1923,14 @@ http://103.226.232.199:8004/play/a04m/index.m3u8?token=shareext
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
-
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
-
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
@@ -1970,6 +1972,7 @@ http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD2-1-1.png",BeInSport 2 HD
+https://usee.galleryiptv.my.id/Loe_Dibilangin_Gabisa_Kalo_Nyuri_Playlist_Bisa_Memang_Kau_Gaada_Akhlak_Betul_Males_Gw_Liat_Kau_Lagi/SPORTS-USEE/chunklist.m3u8?id=bein2&bandwidth=default&sync=0
 http://smartgo.site:8080/8298937393816531/8298937393816531/8260
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
