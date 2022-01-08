@@ -426,13 +426,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KOMPAS TV
-http://iptvid.my.id/ch/kompastv.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://gpc.my.id/usee/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Nusantara TV
-http://iptvid.my.id/ch/nusantaratv.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/nusantaratv.m3u8
 
@@ -441,7 +439,6 @@ http://iptvid.my.id/ch/indonesiana.m3u8?by=iptv_id
 http://iptvid.my.id/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", RRI Net
-http://iptvid.my.id/ch/rrinet.m3u8?by=iptv_id
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 http://dituduhmaling.xyz/US33T4/rrinet.m3u8
 http://gpc.my.id/usee/rrinet.m3u8
@@ -467,13 +464,10 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Champion TV 1
-http://iptvid.my.id/ch/champion1.m3u8?by=iptv_id
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Champion TV 2
-http://iptvid.my.id/ch/champion2.m3u8?by=iptv_id
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=champion2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Fox Sport 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
@@ -619,13 +613,13 @@ http://iptvid.my.id/hits.m3u8
 http://iptvid.my.id/ch/hitsmovie.m3u8?by=iptv_id
 http://iptvid.my.id/hitsmovie.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", tvN
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TVN
 http://iptvid.my.id/ch/tvn.m3u8?by=iptv_id
 http://iptvid.my.id/tvn.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvn&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", tvN Movies
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TVN Movies
 http://iptvid.my.id/ch/tvnmovie.m3u8?by=iptv_id
 http://iptvid.my.id/tvnmovie.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
@@ -1248,10 +1242,10 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 1
-https://dik.si/SEbein1?shareext.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 2
-https://dik.si/SEbein1?shareext.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nick Jr 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1972,7 +1966,6 @@ http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD2-1-1.png",BeInSport 2 HD
-https://usee.galleryiptv.my.id/Loe_Dibilangin_Gabisa_Kalo_Nyuri_Playlist_Bisa_Memang_Kau_Gaada_Akhlak_Betul_Males_Gw_Liat_Kau_Lagi/SPORTS-USEE/chunklist.m3u8?id=bein2&bandwidth=default&sync=0
 http://smartgo.site:8080/8298937393816531/8298937393816531/8260
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
