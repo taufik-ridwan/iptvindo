@@ -1236,16 +1236,19 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC", FOX SPORTS 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORTS 2
+http://45.179.140.242:8000/play/a0k3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORTS 3
+http://45.179.140.242:8000/play/a0ik
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 1
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 2
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nick Jr 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1783,16 +1786,19 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 ########################################################### SPORTS ###################################################
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX SPORT 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57999
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORT 2
+http://45.179.140.242:8000/play/a0k3
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57998
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX SPORT 3
+http://45.179.140.242:8000/play/a0ik
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57997
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
@@ -1819,22 +1825,27 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
+https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
+https://wopep.com/02_PremierHD5_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
