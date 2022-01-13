@@ -1244,11 +1244,15 @@ http://45.179.140.242:8000/play/a0k3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",FOX SPORTS 3
 http://45.179.140.242:8000/play/a0ik
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",BeIN Sports 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",Nick Jr 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1804,25 +1808,26 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
+http://new-pro.tv:8080/4474494445842022/Nadim2022/72074
 http://173.199.120.51/hls/ten1.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
+http://new-pro.tv:8080/4474494445842022/Nadim2022/72075
 http://173.199.120.51/hls/ten2.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
+http://new-pro.tv:8080/4474494445842022/Nadim2022/72076
 http://173.199.120.51/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
+http://new-pro.tv:8080/4474494445842022/Nadim2022/72073
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtBrvRg0UITcDVD0S9nIUpiYROk842bNwmiavHDKW2jkNvWeJSA&s" group-title="SPORTS",Sony ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
@@ -1900,6 +1905,7 @@ http://iptv.tvmalaysia.cc/penang198/penang198/9026
 http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 5HD
+http://iptv.tvmalaysia.cc/kl425/kl425/9029
 http://iptv.tvmalaysia.cc/penang198/penang198/6793
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
@@ -1928,14 +1934,17 @@ http://103.226.232.199:8004/play/a04m/index.m3u8?token=shareext
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
+http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv1
 http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
+http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv2
 http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
+http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv3
 http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
