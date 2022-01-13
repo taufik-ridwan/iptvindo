@@ -1825,7 +1825,7 @@ http://173.199.120.51/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS",Sony Six
 http://new-pro.tv:8080/4474494445842022/Nadim2022/72073
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
