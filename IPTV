@@ -143,7 +143,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://122.248.43.138:1935/ch13/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Baraya_TV.png/revision/latest?cb=20180920095655" group-title="LOKAL",Baraya TV
-
+https://v2.siar.us/barayatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
@@ -1673,6 +1673,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_123.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Qz2JCO2R8HeJ9PHmPwDibmsTqCiYZW4Mezo8vgJ4QLDzIKQGNqHaaNM&s=10" group-title="TV Islam",TV MUHAMMADIYAH
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1280px-Logo_MQTV.png" group-title="TV Islam", MQTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
@@ -1978,25 +1979,25 @@ http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://mantul.org/logo/useesport1.png",Usee Sport 1
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png",Usee Sport 1
 https://dik.si/SEuseeSport1?shareext.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://mantul.org/logo/useesport2.png",Usee Sport 2
+#EXTINF:-1 group-title="SPORTS"tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png",Usee Sport 2
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png", Champion TV 1
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png", Champion TV 1
 http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv1
 http://golive.cf/stream/champion1.m3u8
 http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png", Champion TV 2
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png", Champion TV 2
 http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv2
 http://golive.cf/stream/champion2.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", Champion TV 3
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/ab167b2dbfc0396a2bb76e29c6dd9332.png" group-title="SPORTS", Champion TV 3
 http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv3
 http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
@@ -2008,15 +2009,19 @@ http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS", RMC SPORTS 1
-
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9218
 
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS", RMC SPORTS 2
-
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Adu Ayam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Adu Kerbau 
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",NBC Golf 
@@ -2032,40 +2037,33 @@ https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD1-1-1.png",BeInSport 1 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/36424
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD2-1-1.png",BeInSport 2 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/8260
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD3-1-1.png",BeInSport 3 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/137024
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD4-1-2.png",BeInSport 4 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/3060
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD5-1-1.png",BeInSport 5 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/3059
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD6-1-1.png",BeInSport 6 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/36426
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png",BeInSport 7 HD
-http://smartgo.site:8080/8298937393816531/8298937393816531/3057
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
@@ -2103,25 +2101,25 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+
 
 ########################################################### KIDS #####################################################
 
@@ -2259,12 +2257,12 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
 
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png", HBO
-
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png", HBO
+https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.mncvision.id/userfiles/image/channel/hbo_family.png", HBO FAMILY
+#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "http://iptv.nullpress.xyz:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png", HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2305,23 +2303,28 @@ http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="MOVIES",HBO
+https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/906430197071759f2e1aa8e8e03b859f.png" group-title="MOVIES",HBO HITS
+https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY
+#EXTINF:0 tvg-logo="http://iptv.nullpress.xyz:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="MOVIES",HBO FAMILY
+https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="MOVIES",HBO SIGNATURE
+https://kopiku.my.id/inr/hbo2.m3u8?channel=sig
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u
 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="MOVIES", CINEMAX BY HBO
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="MOVIES", CINEMAX BY HBO
+https://kopiku.my.id/inr/hbo2.m3u8?channel=max
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
