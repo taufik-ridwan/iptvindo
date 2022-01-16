@@ -1968,11 +1968,9 @@ http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 
@@ -2003,10 +2001,10 @@ http://golive.cf/stream/champion3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA 1 
-
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="SPORTS", SETANTA 2 
-
+https://bal.varcdn1.ru/lb/setanta2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS", RMC SPORTS 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9218
@@ -2017,10 +2015,10 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Adu Ayam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS", Adu Ayam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Adu Kerbau 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS", Adu Kerbau
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 
 
