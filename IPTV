@@ -2022,7 +2022,6 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS",Sony Six
-
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
@@ -2065,18 +2064,22 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
+https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
+https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
@@ -2101,15 +2104,15 @@ http://iptv.tvmalaysia.cc/kl425/kl425/9029
 http://iptv.tvmalaysia.cc/penang198/penang198/6793
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="SPORTS",BT Sport 1 FHD
-https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+http://urtv.cc:80/kl570/kl570/6610
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SPORTS",BT Sport 2 FHD
+http://urtv.cc:80/kl570/kl570/6611
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SPORTS",BT Sport 3 FHD
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+http://urtv.cc:80/kl570/kl570/6612
 http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
@@ -2167,35 +2170,25 @@ https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD1-1-1.png",BeInSport 1 HD
-https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD2-1-1.png",BeInSport 2 HD
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD3-1-1.png",BeInSport 3 HD
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD4-1-2.png",BeInSport 4 HD
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD5-1-1.png",BeInSport 5 HD
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD6-1-1.png",BeInSport 6 HD
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png",BeInSport 7 HD
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
