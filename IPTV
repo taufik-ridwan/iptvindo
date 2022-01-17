@@ -2004,41 +2004,46 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 http://173.199.120.51/hls/ten1.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
 http://173.199.120.51/hls/ten2.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 http://173.199.120.51/hls/ten3.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS",Sony Six
+
+https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
-https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
-https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
-https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
-https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
-https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
+https://wopep.com/02_PremierHD5_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
@@ -2119,19 +2124,13 @@ https://dik.si/SEuseeSPorts_2?shareext.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png", Champion TV 1
-http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv1
-http://golive.cf/stream/champion1.m3u8
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png", Champion TV 2
-http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv2
-http://golive.cf/stream/champion2.m3u8
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/ab167b2dbfc0396a2bb76e29c6dd9332.png" group-title="SPORTS", Champion TV 3
-http://gumisasak-vision.online//Live/ru/v.m3u8?id=championstv3
-http://golive.cf/stream/champion3.m3u8
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA 1 
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
@@ -2148,10 +2147,10 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS", Adu Ayam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS", Adu Ayam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS", Adu Kerbau
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS", Adu Kerbau
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 
 
@@ -2229,7 +2228,7 @@ http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwP9sDh/AISPLAYshare-Ext-Group.jpg"group-title="SPORTS",AISPLAY1
 
