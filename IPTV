@@ -5,15 +5,18 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="INDONESIA",MNCTV
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=mnctv
 https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=gtv
 https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
@@ -74,9 +77,139 @@ http://nonton.wap.sh/id/018.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
+
+########################################################### TV DIGITAL ###############################################
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",ANTV DIGITAL T2
+http://202.150.172.34:4000/play/antvdigitalt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL"BADAR TV T2
+http://202.150.172.34:4000/play/badartvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",BBSTV JAKARTA T2
+http://202.150.172.34:4000/play/bbstvjktt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="tv DIGITAL",BNTV T2
+http://202.150.172.34:4000/play/bntvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",CNBC INDONESIA HD T2
+http://202.150.172.34:4000/play/cnbcindonesiahdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",CNN INDONESIA HD T2
+http://202.150.172.34:4000/play/cnnindonesiahdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="tv DIGITAL",DAAITV T2
+http://202.150.172.34:4000/play/daaitvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",ELSHINTA TV T2
+http://202.150.172.34:4000/play/elshintatvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",GRAMEDIA TV T2
+http://202.150.172.34:4000/play/gramediatvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",GTV T2
+http://202.150.172.34:4000/play/gtvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",INDOSIAR HD T2
+http://202.150.172.34:4000/play/indosiarhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",INSPIRA TV T2
+http://202.150.172.34:4000/play/inspiratvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",JAKTV T2
+http://202.150.172.34:4000/play/jaktvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",JPMTV T2
+http://202.150.172.34:4000/play/jpmtvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",KOMPAS TV T2
+http://202.150.172.34:4000/play/kompastvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",KTV T2
+http://202.150.172.34:4000/play/ktvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MAGNA CHANNEL T2
+http://202.150.172.34:4000/play/magnachannelt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MENTARITV HD T2
+http://202.150.172.34:4000/play/mentaritvhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",METRO TV T2
+http://202.150.172.34:4000/play/metrotvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",METROTV HD T2
+http://202.150.172.34:4000/play/metrotvhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MNCTV T2
+http://202.150.172.34:4000/play/mnctvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MYTV T2
+http://202.150.172.34:4000/play/mytvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",NET. T2
+http://202.150.172.34:4000/play/nett2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",NUSANTARATV T2
+http://202.150.172.34:4000/play/nusantaratvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",OCHANNEL HD T2
+http://202.150.172.34:4000/play/ochannelhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RCTI T2
+http://202.150.172.34:4000/play/rctit2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RTV 1
+http://202.150.172.34:4000/play/rtv1
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RTV 2
+http://202.150.172.34:4000/play/rtv2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",SCTV HD T2
+http://202.150.172.34:4000/play/sctvhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",SPORT ONE T2
+http://202.150.172.34:4000/play/sportonet2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",Smile TV T2
+http://202.150.172.34:4000/play/smiletv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TEMPO TV T2
+http://202.150.172.34:4000/play/tempotvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TRANS 7 HD T2
+http://202.150.172.34:4000/play/trans7hdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TRANS TV HD T2
+http://202.150.172.34:4000/play/transtvhdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVMU T2
+http://202.150.172.34:4000/play/tvmut2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVONE DIGITAL T2
+http://202.150.172.34:4000/play/tvonedigitalt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI 3 T2
+http://202.150.172.34:4000/play/tvri3t2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI DKI T2
+http://202.150.172.34:4000/play/tvridkit2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI NASIONAL T2
+http://202.150.172.34:4000/play/tvrinasionalt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI SPORT HD T2
+http://202.150.172.34:4000/play/tvrisporthdt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",UGTV T2
+http://202.150.172.34:4000/play/ugtvt2
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",iNEWS T2
+http://202.150.172.34:4000/play/inewst2
+
 ########################################################### BERITA ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 https://cdn-livetv-studio.metube.id/inewstv.m3u8
