@@ -5,18 +5,15 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
-http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="INDONESIA",MNCTV
-http://sharing-iptv.se.ke/fta/aura.m3u8?id=mnctv
 https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV
-http://sharing-iptv.se.ke/fta/aura.m3u8?id=gtv
 https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
@@ -208,7 +205,6 @@ http://202.150.172.34:4000/play/inewst2
 ########################################################### BERITA ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
-http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 https://cdn-livetv-studio.metube.id/inewstv.m3u8
