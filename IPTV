@@ -2114,10 +2114,12 @@ http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png",Usee Sport 1
+https://goldenlivektv.com/zzz/useesport.m3u8
 https://dik.si/SEuseeSport1?shareext.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png",Usee Sport 2
+https://goldenlivektv.com/zzz/useesports2.m3u8
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
