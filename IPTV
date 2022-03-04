@@ -1677,7 +1677,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="TV Islam",NABAWI TV
-http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="TV Islam",AHSAN TV
 https://h1.intechmedia.net/intech/ch4.m3u8
@@ -1702,7 +1702,7 @@ https://streaming.sigraduta.co.id/izzahtv.m3u8
 https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYe_X3EVXJ9iUdIFgn3CV-D-g4gu6vyYEo0A&usqp=CAU" group-title="TV Islam", ALWAFA MEDIA TV
-https://am.siar.us/ammedia/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 https://h1.intechmedia.net/intech/ch5.m3u8
@@ -2323,7 +2323,7 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png", HBO
-https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
+https://live.astradamy.com/hbogo/hbo/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -2369,22 +2369,22 @@ http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="MOVIES",HBO
-https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
+https://live.astradamy.com/hbogo/hbo/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/906430197071759f2e1aa8e8e03b859f.png" group-title="MOVIES",HBO HITS
-https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
+https://live.astradamy.com/hbogo/hbohits/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:0 tvg-logo="http://iptv.nullpress.xyz:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="MOVIES",HBO FAMILY
-https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
+https://live.astradamy.com/hbogo/hbofam/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="MOVIES",HBO SIGNATURE
-https://kopiku.my.id/inr/hbo2.m3u8?channel=sig
+https://live.astradamy.com/hbogo/hbosig/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u
 
