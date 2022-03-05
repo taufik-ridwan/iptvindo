@@ -596,36 +596,28 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRANS 7
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRANS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NET TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", RTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TVRI
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", METRO TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KOMPAS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Nusantara TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Indonesiana
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", RRI Net
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Prambors
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Useesports 1
 
@@ -676,10 +668,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", FRANCE24
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", TRT World
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KIX
 
@@ -700,13 +690,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NHK World
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NHK World Premium
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", KBS World 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kbsworld&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Lifetime 
 
@@ -715,13 +702,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=kbsworld&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", CCTV4
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", SEA Today
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", CGTN Documentary
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Bioskop Indonesia 
 
@@ -778,391 +762,257 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", IMC 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NAT GEO WILD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NAT GEO PEOPLE
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", NAT GEO
-http://iptvid.my.id/ch/natgeo.m3u8?by=iptv_id
-http://iptvid.my.id/natgeo.m3u8
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Discovery Channel
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Outdoor Channel
-http://dituduhmaling.xyz/US33T4/outdoor.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Aniplus 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Animax
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=animax 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Dunia Anak
-http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Horee
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Baby First
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Cartoon Network
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Boomerang
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Dreamworks
-http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", My Kidz
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=mykids
-http://dituduhmaling.xyz/US33T4/mykids.m3u8
+
 
 #EXTINF: 0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Rodja TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/rodjatv.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Tawaf TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/tawaftv.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",MTA TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/mtatv.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",MUI TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/muitv.m3u8
+
  
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",AL Quran AL Kareem
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/alquran.m3u8
+
  
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",MQTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/mqtv.m3u8
+
  
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",TV9 NU
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/tv9.m3u8
+
  
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",Muhammadiyah TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV",AlJazeera 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aljazeera
+
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png"  group-title="USEETV",DAAI TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
-http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png"  group-title="USEETV",TV EDUKASI 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", MShop Signature
-http://dituduhmaling.xyz/US33T4/mncshop.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", MNC News
-http://dituduhmaling.xyz/US33T4/mncnews.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", ABC Australia
-http://dituduhmaling.xyz/US33T4/abcaustralia.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Antara TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
-http://dituduhmaling.xyz/US33T4/antara.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Arirang
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
-http://dituduhmaling.xyz/US33T4/arirang.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Bali TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
-http://dituduhmaling.xyz/US33T4/balitv.m3u8
-http://gpc.my.id/usee/balitv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Berita Satu
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
-http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Chinese Drama
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-http://dituduhmaling.xyz/US33T4/chinesedrama.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Citra Dangdut
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", CNBC Indonesia
-http://dituduhmaling.xyz/US33T4/cnbcindonesia.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", CNN Indonesia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cnnindonesia&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", CNN International
-http://dituduhmaling.xyz/US33T4/cnninternational.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Crime Investigation
-http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Da Vinci Learning
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
+
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Eat & Go
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", EBC Asia
-http://dituduhmaling.xyz/US33T4/ettvasia.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", El John TV
-http://dituduhmaling.xyz/US33T4/eljohn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", DW ENGLISH
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Euronews
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/euronews.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Fashion TV
-http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", Formosa
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=formosa&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", I-Konser
-http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", IDX
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
-http://dituduhmaling.xyz/US33T4/idx.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", SCC Galaxy
-http://usee.galleryiptv.my.id/starchinese/channel.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", HGTV
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", History
-http://dituduhmaling.xyz/US33T4/history.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", SCM Galaxy
-http://usee.galleryiptv.my.id/starchinese/movies.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", JTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.candra.web.id/wp-content/uploads/2018/03/20171115034617UseeTV.png" group-title="USEETV", JAKTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef5756
+
 
 ########################################################### VIDIO ######################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ABC Australia
-https://iptv.mwafa.net/vidio/7150/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/abc_australia.m3u8
-http://gpc.my.id/vidio/abc_australia.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Ajwa TV
-https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
-http://gpc.my.id/vidio/ajwa-tv.m3u8
-http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Quran Kareem
-https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Alquranalkareemtv.m3u8
-http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Jazeera
-https://iptv.mwafa.net/vidio/6410/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Aljazeera.m3u8
-http://gpc.my.id/vidio/Aljazeera.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Berita Satu
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-http://gpc.my.id/vidio/beritasatu.m3u8
-http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
-http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
-http://golive.cf/vidio/live-champion1.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
-http://golive.cf/stream/champion1.m3u8
-https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
-http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
-http://golive.cf/vidio/live-champion2.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
-http://golive.cf/stream/champion2.m3u8
-https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
-http://golive.cf/vidio/live-champion3.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
-http://golive.cf/stream/champion3.m3u8
-https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",LFC TV
-http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Bioskop
-https://iptv.mwafa.net/vidio/6684/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8
-http://gpc.my.id/vidio/citra-bioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Dangdut
-https://iptv.mwafa.net/vidio/6687/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
-http://gpc.my.id/vidio/citra-dangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Drama
-https://iptv.mwafa.net/vidio/6401/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Citradrama.m3u8
-http://gpc.my.id/vidio/citradrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Entertainment
-https://iptv.mwafa.net/vidio/6402/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8
-http://gpc.my.id/vidio/citraentertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Muslim
-https://iptv.mwafa.net/vidio/6678/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/CitraMuslim.m3u8
-http://gpc.my.id/vidio/citra-muslim.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Da Vinci Learning
-http://tvnasional.mobie.in/PREMIER_VIDIO/Davici.m3u8
-http://dituduhmaling.xyz/V11710/Davinci.m3u8
-http://gpc.my.id/vidio/da-vinci.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",DAAI TV
-https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
-http://gpc.my.id/vidio/daai-tv.m3u8
-http://dituduhmaling.xyz/V11710/DAAI_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Channel V
-https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",DW Asia
-https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/dw-english.m3u8
-http://gpc.my.id/vidio/dw-english.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Euronews
-https://iptv.mwafa.net/vidio/6412/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/EuroNews.m3u8
-http://gpc.my.id/vidio/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",GTV
-https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",HIP HIP Horee
-http://tvnasional.mobie.in/PREMIER_VIDIO/hiphiphoree.m3u8
-http://dituduhmaling.xyz/V11710/hiphiphoree.m3u8
-http://gpc.my.id/vidio/hip-hip-horee.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Horee
-http://tvnasional.mobie.in/PREMIER_VIDIO/horee.m3u8
-http://dituduhmaling.xyz/V11710/Horee.m3u8
-http://gpc.my.id/vidio/horee.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zoo Moo
-http://dituduhmaling.xyz/V11710/Zoomoo.m3u8
-http://gpc.my.id/vidio/zoomoo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Indosiar
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Indosiar.m3u8
-http://gpc.my.id/vidio/indosiar.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",iNews
-https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",JakTV
-https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
-http://gpc.my.id/vidio/jaktv.m3u8
-http://dituduhmaling.xyz/V11710/Jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Kompas TV
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Kompas.m3u8
-http://gpc.my.id/vidio/kompas-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Love Nature
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Metro TV
-https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Metrotv.m3u8
-http://gpc.my.id/vidio/metro-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MNC TV
-https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Musica
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MYTV
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-http://gpc.my.id/vidio/mytv.m3u8
-http://dituduhmaling.xyz/V11710/Mytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",NET TV
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
-http://gpc.my.id/vidio/net-tv.m3u8
-http://dituduhmaling.xyz/V11710/NET_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Nusantara TV
-https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
-http://gpc.my.id/vidio/nusantara-tv.m3u8
-http://dituduhmaling.xyz/V11710/Nusantaratv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Ochannel.m3u8
-http://gpc.my.id/vidio/ochannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",O-Shop
-https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/Oshop.m3u8
-http://gpc.my.id/vidio/oshop.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",RTV
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/RTV.m3u8
-http://gpc.my.id/vidio/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/SCTV.m3u8
-http://gpc.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SEA Today
 
@@ -1171,27 +1021,15 @@ http://gpc.my.id/vidio/sctv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans 7
-https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
-http://gpc.my.id/vidio/trans7.m3u8
-http://dituduhmaling.xyz/V11710/Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Trans TV
-https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
-http://gpc.my.id/vidio/trans-tv.m3u8
-http://dituduhmaling.xyz/V11710/Transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV Edukasi
-https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
-http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
-http://gpc.my.id/vidio/TVEdukasi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",tvN
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TVRI
-https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
-http://gpc.my.id/vidio/tvri.m3u8
-http://dituduhmaling.xyz/V11710/TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zee Bioskop
 
