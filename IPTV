@@ -1493,10 +1493,12 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 ########################################################### TV ISLAM ###################################################
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam", MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
 http://ayat.live.net.sa:1935/live/ayat/chunklist_w893962946.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="TV Islam",AYAT LIVE TV
@@ -1541,6 +1543,11 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYe_X3EVXJ9iUdIFgn3CV-D-g4gu6vyYEo0A&usqp=CAU" group-title="TV Islam", ALWAFA MEDIA TV
 
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV 
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+
+#EXTINF:-1 group-title="TV Islam" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV 
+https://h1.intechmedia.net/intech/ch17.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 https://h1.intechmedia.net/intech/ch5.m3u8
