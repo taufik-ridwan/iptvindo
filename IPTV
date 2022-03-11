@@ -4,16 +4,19 @@
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI
+http://tvn.x10.bz/xchannel/master-34.m3u8
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="INDONESIA",MNCTV
+http://tvn.x10.bz/xchannel/master-36.m3u8
 https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV
+http://tvn.x10.bz/xchannel/master-35.m3u8
 https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
@@ -30,18 +33,17 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA",TRANS 7
-http://rr.dens.tv/h/h11/index.m3u8
+http://tvn.x10.bz/xchannel/master-30.m3u8
 http://nonton.wap.sh/id/004.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV
-http://rr2.dens.tv/s/s05/index.m3u8
+http://tvn.x10.bz/xchannel/master-31.m3u8
 http://nonton.wap.sh/id/003.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
-http://nonton.wap.sh/id/002.m3u8
-http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+/http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
@@ -74,137 +76,11 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 
-########################################################### TV DIGITAL ###############################################
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",ANTV DIGITAL T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL"BADAR TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",BBSTV JAKARTA T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="tv DIGITAL",BNTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",CNBC INDONESIA HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",CNN INDONESIA HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="tv DIGITAL",DAAITV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",ELSHINTA TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",GRAMEDIA TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",GTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",INDOSIAR HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",INSPIRA TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",JAKTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",JPMTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",KOMPAS TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",KTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MAGNA CHANNEL T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MENTARITV HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",METRO TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",METROTV HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MNCTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",MYTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",NET. T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",NUSANTARATV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",OCHANNEL HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RCTI T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RTV 1
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",RTV 2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",SCTV HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",SPORT ONE T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",Smile TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TEMPO TV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TRANS 7 HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TRANS TV HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVMU T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVONE DIGITAL T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI 3 T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI DKI T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI NASIONAL T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",TVRI SPORT HD T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",UGTV T2
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tN+FG+yVL.png" group-title="TV DIGITAL",iNEWS T2
-
-
 ########################################################### BERITA ###################################################
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
+http://tvn.x10.bz/xchannel/master-37.m3u8
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 https://cdn-livetv-studio.metube.id/inewstv.m3u8
@@ -927,6 +803,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ABC Australia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Ajwa TV
+http://tvn.x10.bz/xchannel/master-14.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Quran Kareem
 
@@ -935,27 +812,37 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Berita Satu
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
-
+http://tvn.x10.bz/xchannel/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
-
+http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",LFC TV
+http://tvn.x10.bz/xchannel/master-3.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RANS TV
+http://tvn.x10.bz/xchannel/master-21.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Bioskop
+http://tvn.x10.bz/xchannel/master-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Dangdut
+http://tvn.x10.bz/xchannel/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Drama
+http://tvn.x10.bz/xchannel/master-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Entertainment
+http://tvn.x10.bz/xchannel/master-11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Muslim
-
+http://tvn.x10.bz/xchannel/master-9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Da Vinci Learning
 
@@ -972,13 +859,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",GTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",HIP HIP Horee
+http://tvn.x10.bz/xchannel/master-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Horee
+http://tvn.x10.bz/xchannel/master-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zoo Moo
+http://tvn.x10.bz/xchannel/master-25.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Kids TV
+http://tvn.x10.bz/xchannel/master-22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Indosiar
-
+http://tvn.x10.bz/xchannel/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",iNews
 
@@ -986,16 +879,18 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",JakTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Kompas TV
+http://tvn.x10.bz/xchannel/master-19.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Love Nature
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Metro TV
+http://tvn.x10.bz/xchannel/master-23.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MNC TV
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",Musica
-
+http://tvn.x10.bz/xchannel/master-26.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",MYTV
 
@@ -1004,15 +899,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Nusantara TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",O-Channel
+http://tvn.x10.bz/xchannel/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",O-Shop
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV ONE
+http://tvn.x10.bz/xchannel/master-13.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png"group-title="VIDIO",RTV
+http://tvn.x10.bz/xchannel/master-20.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
+http://tvn.x10.bz/xchannel/master-24.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SEA Today
 
@@ -1027,12 +927,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TV Edukasi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",tvN
-
+http://tvn.x10.bz/xchannel/master-16.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TVRI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zee Bioskop
-
+http://tvn.x10.bz/xchannel/master-15.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zing
 
@@ -1067,14 +967,12 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",GLOBAL TV HD
-https://on-load.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",INEWS
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1098,12 +996,12 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",METRO TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",MNC TV HD
-https://on-load.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NET TV HD
@@ -1114,8 +1012,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",RCTI HD
-https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",RTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1134,7 +1031,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TRANS 7 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",TV ONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
