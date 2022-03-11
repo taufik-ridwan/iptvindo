@@ -1441,10 +1441,7 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYe_X3EVXJ9iUdIFgn3CV-D-g4gu6vyYEo0A&usqp=CAU" group-title="TV Islam", ALWAFA MEDIA TV
 
 #EXTINF:-1 group-title="TV Islam" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV 
-https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
 
-#EXTINF:-1 group-title="TV Islam" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV 
-https://h1.intechmedia.net/intech/ch17.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6gedTt7N7E8/Xer-dAyzpEI/AAAAAAAAAXw/2Qr-38I8jmkv4bT7EQdSHEzdZtDK8FE1ACLcBGAsYHQ/s1600/frekuensi-channel-Muadz-TV-terbaru.jpg" group-title="TV Islam", MUADZ TV
 https://h1.intechmedia.net/intech/ch5.m3u8
@@ -2064,9 +2061,11 @@ hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png", HBO
-https://live.astradamy.com/hbogo/hbo/index.m3u8
-
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="FOX & HBO"tvg-logo = "http://iptv.nullpress.xyz:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png", HBO FAMILY
