@@ -1761,11 +1761,17 @@ https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",Astro Super Sport 1HD
+http://linears-playback.astro.com.my/vsg/41i4KxCsxtb7T4S7lA0D3vNKCsrVS1fSpyfKDXf5EdBNg=a-t1/dash-wv/jitp-linearwm/601/default_ott.mpd
 http://iptv.tvmalaysia.cc/penang198/penang198/6708
 http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",Astro Super Sport 2HD
+http://linears-playback.astro.com.my/vsg/414gE4Gt5Fujs2UtykMhD_GpBIrSfcDbT3bqJeVQaDjOs=Si8L/dash-wv/jitp-linearwm/2104/default_ott.mpd
 http://iptv.tvmalaysia.cc/penang198/penang198/9025
 http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
