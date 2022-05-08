@@ -799,7 +799,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ABC Australia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Ajwa TV
-https://begaltvku.site/ventidos/master-14.m3u8
 http://tvn.x10.bz/xchannel/master-14.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Al Quran Kareem
@@ -809,31 +808,24 @@ http://tvn.x10.bz/xchannel/master-14.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Berita Satu
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
-https://begaltvku.site/ventidos/master-6.m3u8
 http://tvn.x10.bz/xchannel/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
-https://begaltvku.site/ventidos/master-7.m3u8
 http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
-https://begaltvku.site/ventidos/master-8.m3u8
 http://tvn.x10.bz/xchannel/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 4
-https://begaltvku.site/ventidos/master-17.m3u8
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",LFC TV
-https://begaltvku.site/ventidos/master-3.m3u8
 http://tvn.x10.bz/xchannel/master-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RANS TV
-https://begaltvku.site/ventidos/master-21.m3u8
 http://tvn.x10.bz/xchannel/master-21.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Bioskop
-https://begaltvku.site/ventidos/master-1.m3u8
 http://tvn.x10.bz/xchannel/master-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Dangdut
